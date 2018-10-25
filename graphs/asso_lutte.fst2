@@ -1,0 +1,30 @@
+0000000001
+-1 asso_lutte
+: 14 1 
+: 8 2 7 2 6 2 5 2 4 2 3 2 2 2 1 2 
+: 13 5 11 4 9 3 
+: 10 5 9 3 
+: 9 3 
+: 11 6 
+: 15 8 11 7 10 5 
+: 15 8 
+: 12 9 
+t 
+f 
+%<E>
+%lutte
+%Lutte
+%lutter
+%Lutter
+%luttez
+%Luttez
+%luttons
+%Luttons
+%<PRE>
+%<DET>
+%<N>
+%<E>/[typeAsso=$typeAsso$]
+%<CONJC>
+%$typeAsso(
+%$typeAsso)
+f

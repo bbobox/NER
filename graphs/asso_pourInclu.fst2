@@ -1,0 +1,44 @@
+0000000003
+-1 asso_pourInclu
+: -2 1 
+: 5 2 
+: 3 3 2 4 1 3 
+: 2 5 
+: 8 6 7 6 3 6 2 7 1 6 
+: 8 6 7 6 3 6 2 6 1 6 
+: -3 8 11 8 10 8 9 8 2 8 
+: -3 8 11 8 10 8 9 8 8 6 7 6 3 6 2 8 1 6 
+: -3 8 11 8 10 8 9 8 6 9 2 8 
+: 4 10 
+t 
+f 
+-2 association
+: 17 1 16 1 15 1 14 1 13 1 12 1 
+t 
+f 
+-3 testMotApostrophe
+: 7 1 
+: 18 2 
+: 7 3 
+t 
+f 
+%<E>
+%<D>
+%<N>
+%<PREP>
+%<E>/[typeAsso=$typeAsso$]
+%$typeAsso(
+%$typeAsso)
+%<WORD>
+%<PRO>
+%<V>
+%<A>
+%<CONJC>
+%Association
+%association
+%associations
+%Associations
+%ASSOCIATION
+%ASSOCIATIONS
+%'
+f

@@ -1,0 +1,21 @@
+0000000001
+-1 asso_promote
+: 7 1 
+: 4 2 3 2 2 2 1 2 
+: 5 3 
+: 6 4 5 3 
+: 8 5 6 4 
+: 9 6 
+t 
+f 
+%<E>
+%promotion
+%promouvoir
+%Promtion
+%Promouvoir
+%<DET>
+%<N>
+%$typeAsso(
+%$typeAsso)
+%<E>/[typeAsso=$typeAsso$]
+f
