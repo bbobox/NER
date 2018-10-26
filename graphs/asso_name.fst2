@@ -1,0 +1,39 @@
+0000000003
+-1 asso_name
+: -2 1 
+: 4 2 
+: 2 3 
+: 1 4 
+: -3 5 7 7 6 7 5 6 1 5 
+: 5 6 
+: 3 8 
+: -3 5 1 5 
+t 
+f 
+-2 association
+: 13 1 12 1 11 1 10 1 9 1 8 1 
+t 
+f 
+-3 testMotApostrophe
+: 14 1 
+: 15 2 
+: 14 3 
+t 
+f 
+%<E>
+%<N>
+%<CONT>
+%<E>/[typeAsso=$typeAsso$]
+%$typeAsso(
+%$typeAsso)
+%<D>
+%<PREP>
+%Association
+%association
+%associations
+%Associations
+%ASSOCIATION
+%ASSOCIATIONS
+%<WORD>
+%'
+f

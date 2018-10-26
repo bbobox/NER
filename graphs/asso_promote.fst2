@@ -1,0 +1,38 @@
+0000000003
+-1 asso_promote
+: 8 1 
+: 4 2 3 2 2 2 1 2 
+: 5 3 
+: -2 4 -3 4 7 4 6 4 5 3 
+: -2 4 -3 4 9 5 7 4 6 4 
+: 10 6 
+t 
+f 
+-2 motCompose
+: 11 1 
+: 12 2 
+: 11 3 
+t 
+f 
+-3 testMotApostrophe
+: 11 1 
+: 14 2 13 2 
+: 11 3 
+t 
+f 
+%<E>
+%promotion
+%promouvoir
+%Promtion
+%Promouvoir
+%<DET>
+%<N>
+%<A>
+%$typeAsso(
+%$typeAsso)
+%<E>/[typeAsso=$typeAsso$]
+%<WORD>
+%-
+%'
+%’
+f
