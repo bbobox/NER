@@ -19,10 +19,10 @@ PORIENT L
 #
 8
 "<E>" 60 156 1 5 
-"" 490 157 0 
+"" 613 157 0 
 "promotion+promouvoir+Promtion+Promouvoir" 132 156 1 3 
 "<DET>" 240 157 2 3 4 
-"<N>" 330 157 2 6 4 
+":motCompose+:testMotApostrophe+<N>+<A>" 352 157 2 6 4 
 "$typeAsso(" 92 156 1 2 
-"$typeAsso)" 407 157 1 7 
-"<E>/[typeAsso=$typeAsso$]" 449 157 1 1 
+"$typeAsso)" 526 157 1 7 
+"<E>/[typeAsso=$typeAsso$]" 558 157 1 1 
