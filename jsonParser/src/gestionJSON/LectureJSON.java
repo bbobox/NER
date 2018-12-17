@@ -30,6 +30,7 @@ public class LectureJSON {
 	        		 line=line.replace("\t", "");
 	        		 line=line.replace("\r", "");
 	        		 line=line.replace("\n", " ");
+	        		 line=line.replace("\\", "");
 	        		 line=Jsoup.parse(line).text();
 	        		 String[] splitted=line.split(" ");
 	        		 line="";
