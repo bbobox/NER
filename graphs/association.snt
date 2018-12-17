@@ -1,0 +1,23 @@
+#Unigraph
+{S}SIZE 1188 840
+{S}FONT Times New Roman: 10
+{S}OFONT Arial Unicode MS:B 12
+{S}BCOLOR 16777215
+{S}FCOLOR 0
+{S}ACOLOR 13487565
+{S}SCOLOR 16711680
+{S}CCOLOR 255
+{S}DBOXES y
+{S}DFRAME n
+{S}DDATE n
+{S}DFILE n
+{S}DDIR n
+{S}DRIG n
+{S}DRST n
+{S}FITS 100
+{S}PORIENT L
+#
+{S}3
+"<E>" 77 201 1 2
+"" 291 201 0
+"Association+association+associations+Associations+ASSOCIATION+ASSOCIATIONS" 137 201 1 1
