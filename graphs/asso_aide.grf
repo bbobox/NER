@@ -1,0 +1,32 @@
+#Unigraph
+SIZE 1346 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+12
+"<E>" 25 199 1 10 
+"" 679 170 0 
+"aide+Aide+protection+Protection" 131 166 1 6 
+"<PREP>" 263 198 1 7 
+"<N>+:motCompose+:testMotApostrophe" 392 182 1 8 
+"$action(" 94 184 1 2 
+"$action)" 227 198 1 3 
+"$domaine(" 354 198 1 4 
+"$domaine)" 549 198 1 11 
+"<E>/[typeAsso=$typeAsso$][action=$action$][domaine=$domaine$][grapeName=asso_aide]" 638 170 1 1 
+"$typeAsso(" 61 199 1 5 
+"$typeAsso)" 599 176 1 9 

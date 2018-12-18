@@ -2,31 +2,35 @@
 -1 asso_pourInclu
 : -2 1 
 : 5 2 
-: 3 3 2 4 1 3 
+: 12 4 3 3 2 3 1 3 
+: 12 4 
 : 2 5 
-: 8 6 7 6 3 6 2 7 1 6 
-: 8 6 7 6 3 6 2 6 1 6 
-: -3 8 11 8 10 8 9 8 2 8 
-: -3 8 11 8 10 8 9 8 8 6 7 6 3 6 2 8 1 6 
-: -3 8 11 8 10 8 9 8 6 9 2 8 
-: 4 10 
+: 13 6 
+: 8 7 7 7 3 7 2 7 1 7 
+: 14 8 
+: -3 9 11 9 10 9 9 9 2 9 
+: 15 11 3 10 1 10 
+: 3 10 2 12 1 10 
+: 6 13 
+: 15 11 
+: 4 14 
 t 
 f 
 -2 association
-: 17 1 16 1 15 1 14 1 13 1 12 1 
+: 21 1 20 1 19 1 18 1 17 1 16 1 
 t 
 f 
 -3 testMotApostrophe
 : 7 1 
-: 18 2 
+: 23 2 22 2 
 : 7 3 
 t 
 f 
 %<E>
-%<D>
+%<DET>
 %<N>
 %<PREP>
-%<E>/[typeAsso=$typeAsso$]
+%<E>/[typeAsso=$typeAsso$][population=$population$][domaine=$domaine$][grapheName=asso_pourInclu]
 %$typeAsso(
 %$typeAsso)
 %<WORD>
@@ -34,6 +38,10 @@ f
 %<V>
 %<A>
 %<CONJC>
+%$population(
+%$population)
+%$domaine(
+%$domaine)
 %Association
 %association
 %associations
@@ -41,4 +49,5 @@ f
 %ASSOCIATION
 %ASSOCIATIONS
 %'
+%’
 f

@@ -1,5 +1,5 @@
 #Unigraph
-SIZE 1188 840
+SIZE 1413 840
 FONT Times New Roman:  10
 OFONT Arial Unicode MS:B 12
 BCOLOR 16777215
@@ -17,14 +17,20 @@ DRST n
 FITS 100
 PORIENT L
 #
-10
-"<E>" 101 224 1 4 
-"" 842 224 0 
-"<E>+<D>+<N>+<PREP>" 321 224 1 3 
-"<N>" 417 224 1 8 
-":association" 140 224 1 6 
-"<E>/[typeAsso=$typeAsso$]" 787 224 1 1 
-"$typeAsso(" 241 224 1 2 
-"$typeAsso)" 786 135 1 5 
-"<WORD>+<D>+<N>+<PREP>+<PRO>" 492 224 1 9 
-"<N>+<V>+<A>+<CONJC>+:testMotApostrophe" 601 196 2 9 7 
+16
+"<E>" 77 203 1 4 
+"" 144 296 0 
+"<E>+<DET>+<N>+<PREP>" 237 184 1 10 
+"<N>" 356 203 1 11 
+":association" 106 203 1 6 
+"<E>/[typeAsso=$typeAsso$][population=$population$][domaine=$domaine$][grapheName=asso_pourInclu]" 110 296 1 1 
+"$typeAsso(" 199 203 1 2 
+"$typeAsso)" 1040 195 1 5 
+"<WORD>+<DET>+<N>+<PREP>+<PRO>" 465 180 1 12 
+"<N>+<V>+<A>+<CONJC>+:testMotApostrophe" 611 180 2 13 14 
+"$population(" 323 203 1 3 
+"$population)" 425 203 1 8 
+"$domaine(" 566 203 1 9 
+"$domaine)" 948 180 1 7 
+"<DET>+<PREP>" 777 136 2 14 15 
+"<N>" 879 136 1 13 
