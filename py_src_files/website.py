@@ -8,11 +8,12 @@ class WebSite:
     Represente un Site Web d'association et son contenu
     """
 
-    def __init__(self,url,desc,title):
+    def __init__(self,url,desc,title,type):
 
         self.title = title
         self.url = url
         self.desc = desc
+        self.type = type
         self.nwords = 0
 
     def setDesc(self, text):

@@ -24,9 +24,10 @@ import argparse
 
 #f = open('workfile', 'w')
 
+
 def getWebSiteSet(file):
     """
-    retourne l'ensemble des Objects de type WebSites selon le fichier parsé 
+    retourne l'ensemble des Objects de type WebSites selon le fichier parsé
     """
     i=0
     tour=0
@@ -35,21 +36,27 @@ def getWebSiteSet(file):
     des=""
     websites = {}
     for ligne in file:
-        if((ligne!="\n" or tour!=0)):
+        if((((not ligne.startswith("[$]")) or tour!=0))):
             i=i+1
             if(i%3==1):
                 title = ligne
                 tour = tour+1
             else:
                 if(i%3==2):
-                    ws = ligne.split("\n")[0]
+                    ws = ligne.split("[$]")[0]
                     tour = tour+1
                 else:
                     if(i%3)==0:
-                        des = ligne
-                        websites[ws]=WebSite(ws,des,title)
+                        des = ligne.split("[$]")[0]
+                        pattern = re.findall("typeAsso=(.*?)]", des)
+                        type = ""
+                        for z in pattern:
+                            type += z
+                        websites[ws]=WebSite(ws,des,title,type)
                         tour = 0
+
     return websites
+
 
 
 def computeWordTF(url, wordText, dictionnary,websites):
@@ -93,7 +100,6 @@ def createWordsDictionnary(websites):
                 getattr(word, 'lemma')        
             except AttributeError:
                print()
-               #print(word)
             else:
                 if(word.word in tokens):
                     words.append(word.lemma)
@@ -108,7 +114,7 @@ def createWordsDictionnary(websites):
     return Dic
 
 
-#file = open("/home/boka/Bureau/projet_annuel/associations.txt", "r") #chemin du fichier
+file = open("../asso_parsed.out", "r") #chemin du fichier
 #Dic = createWordsDictionnary(getWebSiteSet(file))
 #Dic.__str__()
 

@@ -29,8 +29,8 @@ from nltk.stem import WordNetLemmatizer
 
 "----------------------------------------------------------------------"
 
-file = open("associations.txt", "r") #chemin du fichier
+file = open("../asso_parsed.out", "r") #chemin du fichier
 websites = getWebSiteSet(file)
 cp = Corpus()
 cp.set_content(websites)
-print(cp.get_indexed_elements())
+print(cp.get_relevant_elements())

@@ -51,6 +51,6 @@ fi;
 
 ./UnitexToolLogger SortTxt  $path"_snt"/tags_err -l $path"_snt"/tags_err.n -o$config/Alphabet_sort.txt -qutf8-no-bom;
 
-./UnitexToolLogger Locate -t$path".snt" $compiledgraph".fst2" -a$config/Alphabet.txt -L -M -n200 -b -Y --stack-max=10000 --max_matches_per_subgraph=10000 --max_matches_at_token_pos=10000 --max_errors=50 -qutf8-no-bom;
+./UnitexToolLogger Locate -t$path".snt" $compiledgraph".fst2" -a$config/Alphabet.txt -L --number_of_matches=10 -M -b -Y --stack-max=1000 --max_matches_per_subgraph=200 --max_matches_at_token_pos=400 --max_errors=50 -qutf8-no-bom;
 
-./UnitexToolLogger Concord $path"_snt"/concord.ind --html -l40 -r55 --CL --merge=$path".out" -a$config/Alphabet_sort.txt -qutf8-no-bom;
+./UnitexToolLogger Concord $path"_snt"/concord.ind -s12 --html -l40 -r55 --CL --merge=$path".out" -a$config/Alphabet_sort.txt -qutf8-no-bom;
