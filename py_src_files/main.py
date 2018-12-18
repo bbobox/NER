@@ -19,7 +19,9 @@ import sys
 
 from nltk.stem.snowball import FrenchStemmer
 
-from parser import*
+from corpus import *
+
+from parser import *
 
 from nltk import ngrams, FreqDist
 from nltk.tokenize import sent_tokenize, word_tokenize
@@ -27,9 +29,8 @@ from nltk.stem import WordNetLemmatizer
 
 "----------------------------------------------------------------------"
 
-file = open("/home/boka/Bureau/projet_annuel/associations.txt", "r") #chemin du fichier
+file = open("associations.txt", "r") #chemin du fichier
 websites = getWebSiteSet(file)
-Dic = createWordsDictionnary(websites)
-#Dic.__str__()
-
-print(computeWordTF('www.anae.org', "événementiel", Dic, websites))
+cp = Corpus()
+cp.set_content(websites)
+print(cp.get_indexed_elements())

@@ -20,7 +20,7 @@ import sys
 import argparse
 
 
-tagger = treetaggerwrapper.TreeTagger(TAGLANG='fr')
+#tagger = treetaggerwrapper.TreeTagger(TAGLANG='fr')
 
 #f = open('workfile', 'w')
 

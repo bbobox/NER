@@ -7,6 +7,14 @@ Named-entity recognition
 			-f : chemin du ficher texte.
 			-c : cehmin de dossier Unitex-GramLab.*.*/French
 			-g : chemin de graphe/automate Unitex à appliquer
+	
+	Utilisation des programmes python:
+		-version de python : -python3
+		-modules requis:
+			-nltk
+			-scikit-learn
+		-lancement test : python3 main.py
+
 				
  
 
