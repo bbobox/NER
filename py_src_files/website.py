@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 
-import treetaggerwrapper  # For proper print of sequences.
+#import treetaggerwrapper  # For proper print of sequences.
 import pprint
 
 class WebSite:

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from website import WebSite, Word, Dictionnary
-import treetaggerwrapper  # For proper print of sequences.
+#import treetaggerwrapper  # For proper print of sequences.
 import pprint
 from itertools import groupby
 
@@ -29,7 +29,7 @@ from nltk.stem import WordNetLemmatizer
 
 "----------------------------------------------------------------------"
 
-file = open("../asso_parsed.out", "r") #chemin du fichier
+file = open("/home/etudiant/NER/text_files/Lien vers associations.out", "r") #chemin du fichier
 websites = getWebSiteSet(file)
 cp = Corpus()
 cp.set_content(websites)

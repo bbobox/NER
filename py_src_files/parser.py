@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from website import WebSite, Word, Dictionnary
-import treetaggerwrapper  # For proper print of sequences.
+#import treetaggerwrapper  # For proper print of sequences.
 import pprint
 from itertools import groupby
 
@@ -23,6 +23,18 @@ import argparse
 #tagger = treetaggerwrapper.TreeTagger(TAGLANG='fr')
 
 #f = open('workfile', 'w')
+
+import spacy
+
+from spacy_lefff import LefffLemmatizer, POSTagger
+
+
+nlp = spacy.load('fr')
+
+pos = POSTagger()
+french_lemmatizer = LefffLemmatizer(after_melt=True)
+nlp.add_pipe(pos, name='pos', after='parser')
+nlp.add_pipe(french_lemmatizer, name='lefff', after='pos')
 
 
 def getWebSiteSet(file):
@@ -71,6 +83,16 @@ def computeWordTF(url, wordText, dictionnary,websites):
 
 
 
+
+
+def lemmatise_sentence(sentence):
+    res=""
+    doc = nlp(sentence)
+    for i in (doc):
+        res=res+i.lemma
+    return res
+
+
 def preprocess(sentence):
 	#sentence = sentence.lower()
 	tokenizer = RegexpTokenizer(r'\w+')
@@ -114,7 +136,7 @@ def createWordsDictionnary(websites):
     return Dic
 
 
-file = open("../asso_parsed.out", "r") #chemin du fichier
+#file = open("../asso_parsed.out", "r") #chemin du fichier
 #Dic = createWordsDictionnary(getWebSiteSet(file))
 #Dic.__str__()
 

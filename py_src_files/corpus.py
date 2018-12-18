@@ -6,6 +6,10 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+import spacy
+from spacy_lefff import LefffLemmatizer, POSTagger
+nlp = spacy.load('fr')
+
 
 def preprocess(sentence):
 	#sentence = sentence.lower()
@@ -13,6 +17,19 @@ def preprocess(sentence):
 	tokens = tokenizer.tokenize(sentence)
 	filtered_words = [w for w in tokens if not w in stopwords.words('french')]
 	return  filtered_words #tokens #.join(filtered_words)
+
+def lemmatise_sentence(sentence):
+    """
+    Re construit le texte/chaine de caractère avec le lemme de chaque chacun de son contenu
+    :param sentence:
+    :return:
+    """
+    res = ""
+    doc = nlp(sentence)
+    for i in doc:
+        res = res +" " +i.lemma_
+    return res
+
 
 class Corpus:
 
@@ -26,7 +43,8 @@ class Corpus:
         :param websites:
         """
         for i in websites:
-            ws = websites[i].type
+            ws= websites[i].type.lower()
+            ws = lemmatise_sentence(ws)
             if (ws!=""):
                 self.content.append(ws)
 
@@ -79,4 +97,6 @@ class Corpus:
                         relevant.append((elements[element]))
 
         return relevant
+
+
 
