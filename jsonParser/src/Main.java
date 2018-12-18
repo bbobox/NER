@@ -13,7 +13,7 @@ public class Main {
 	public static void main(String[] args) {
 		if(args.length<2) {
 			System.out.println("Utilisation: jsonParser NOM_FICHIER.json NOM_FICHER.txt [SEPARATEUR_DE_DOCUMENT]");
-			System.out.println("\nLe SEPARATEUR_DE_DOCUMENT est une chaîne de texte qui permet de repérer les groupe d'information appartenant au même document.");
+			System.out.println("\nLe SEPARATEUR_DE_DOCUMENT est une chaîne de texte qui permet de repérer les groupes d'informations appartenant au même document.");
 		}
 		else {
 			try {
