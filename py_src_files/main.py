@@ -29,7 +29,7 @@ from nltk.stem import WordNetLemmatizer
 
 "----------------------------------------------------------------------"
 
-file = open("/home/etudiant/NER/text_files/Lien vers associations.out", "r") #chemin du fichier
+file = open("/home/etudiant/NER/text_files/asso_parsed.out", "r") #chemin du fichier
 websites = getWebSiteSet(file)
 cp = Corpus()
 cp.set_content(websites)

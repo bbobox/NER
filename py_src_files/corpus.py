@@ -12,6 +12,7 @@ nlp = spacy.load('fr')
 
 
 def preprocess(sentence):
+
 	#sentence = sentence.lower()
 	tokenizer = RegexpTokenizer(r'\w+')
 	tokens = tokenizer.tokenize(sentence)
@@ -31,6 +32,20 @@ def lemmatise_sentence(sentence):
     return res
 
 
+
+def remove_stops(sentence):
+    """
+    Re construit le texte/chaine de caractère avec les stops_words supprimés
+    :param sentence:
+    :return:
+    """
+    st = preprocess(sentence)
+    res = ""
+    for i in st:
+        res = res + " "+i
+    return res.lower()
+
+
 class Corpus:
 
     def __init__(self):
@@ -44,7 +59,7 @@ class Corpus:
         """
         for i in websites:
             ws= websites[i].type.lower()
-            ws = lemmatise_sentence(ws)
+            ws = remove_stops(lemmatise_sentence(ws))
             if (ws!=""):
                 self.content.append(ws)
 

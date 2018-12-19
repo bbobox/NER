@@ -1,0 +1,927 @@
+à affirmer,.ADV+EPCPQ+z1
+à but non lucratif,.A+EPCA+z1
+à cheval,.A+EPC+z1
+à ciel ouvert,.A+EPCA+z1
+à ciel ouvert,.ADV+PCA+z1
+à destination du,à destination de.PREP+EPCDN+z1
+à deux,.ADV+PC+z1
+à distance,.A+EPC+z1
+à distance,.ADV+PC+z1
+à domicile,.ADV+PC+z1
+à l'affût,.A+EPDETC+z1
+à l'approche,.ADV+PCDN+z1
+à l'école,.A+EPDETC+z1
+à l'étranger,.A+EPDETC+z1
+à l'issue d',à l'issue de.PREP+PCDN1+z1
+à l'issue,.ADV+PCDN+z1
+à l'italienne,.A+EPDETC+z1
+à la demande de,.PREP+EPCDN+z1
+à la demande de,.PREP+PCDN+z1
+à la demande de,.PREP+PCDN1+z1
+à la demande,.A+EPDETC+z1
+à la demande,.ADV+PCDN+z1
+à la demande,.ADV+PDETC+z1
+à la fin de,.PREP+EPCDN+z1
+à la fin de,.PREP+PCDN+z1
+à la fin de,.PREP+PCDN1+z1
+à la fin,.ADV+PCDN+z1
+à la fin,.ADV+PCDN2+z1
+à la fin,.ADV+PDETC+z1
+à la fois,.ADV+PDETC+z1
+à la maison,.A+EPDETC+z1
+à la maison,.ADV+PDETC+z1
+à la mer,.A+EPDETC+z1
+à la montagne,.A+EPDETC+z1
+à la nage,.A+EPDETC+z1
+à la nage,.ADV+PDETC+z1
+à part,.A+EPC+z1
+à part,.ADV+PCPN+z1
+à part,.PREP+Prépconjs+7
+à pied,.A+EPC+z1
+à pied,.ADV+PC+z1
+à proximité de,.PREP+EPCDN+z1
+à toutes les sauces,.A+EPDETC+z1
+à travers,.ADV+PCPN+z1
+à vélo,.A+EPC+z1
+à vélo,.ADV+PC+z1
+abbaye cistercienne,.N+NA+Conc:fs
+accès à,.GNP+A1PN+z1
+accès à,.GNPX+A1PN+z1
+accident de voiture,.N+NDN:ms
+accident domestique,.N+NA+z1:ms
+accueil téléphonique,.N+NA+z2:ms
+acteurs économiques,acteur économique.N+NA+HumColl+z2:mp
+action communautaire,.N+NA:fs
+action de terrain,.N+NDN:fs
+action sociale,.N+NA+z1:fs
+actionnaires minoritaires,actionnaire minoritaire.N+NA+Hum+z2:mp:fp
+actions commerciales,action commerciale.N+NA+z2:fp
+actions culturelles,action culturelle.N+NA:fp
+activité économique,.N+NA+z1:fs
+activités artistiques,activité artistique.N+NA+z1:fp
+activités commerciales,activité commerciale.N+NA+z1:fp
+aéroport de,.NDET+Dnom7
+afro-américaine,afro-américain.A+EPA+z1:fs
+afro-américaine,afro-américain.A+XA:fs
+afro-américaines,afro-américain.A+EPA+z1:fp
+afro-américaines,afro-américain.A+XA:fp
+aide à l'enfance,.N+NAN:fs
+aide humanitaire,.N+NA+z1:fs
+ainsi qu',ainsi que.CONJS+PCPN+z1
+ainsi que,.CONJS+PCPN+z1
+ainsi que,ainsi.CONJS+8
+Alexandre Dumas,.N+Hum+NPropre:ms
+allaitement maternel,.N+NA+z1:ms
+Amérique latine,.N+NA+z1:fs
+anatomie pathologique,.N+NA:fs
+anciens élèves,ancien élève.N+AN+Hum:mp
+anesthésistes-réanimateurs,anesthésiste-réanimateur.N+NN+Hum:mp
+animal de laboratoire,.N+NDN+Anl:ms
+arabo-berbère,.A+XA:ms:fs
+architectes paysagistes,architecte paysagiste.N+NN+Hum+z2:mp:fp
+arrondissement de Paris,.N+NDN+Conc:ms
+Art nouveau,.N+NA+z1:ms
+artisanat d'art,.N+NDN:ms
+arts de la table,.N+NDN:mp
+arts graphiques,.N+NA+z1:mp
+arts martiaux,.N+NA+z1:mp
+arts martiaux,art martial.N+NA+z1:mp
+arts plastiques,.N+NA+z1:mp
+assemblée générale annuelle,.N+NAA+HumColl:fs
+assemblée générale,.N+NA+HumColl+z1:fs
+assistants sociaux,assistant social.N+NA+Hum+z1:mp
+association à but non lucratif,.N+NPNPN+HumColl:fs
+association de défense,.N+NDN+HumColl:fs
+association de soutien,.N+NDN+HumColl:fs
+association humanitaire,.N+NA+HumColl+z1:fs
+association professionnelle,.N+NA+HumColl+z1:fs
+association reconnue d'utilité publique,.N+NX4+HumColl:fs
+association sportive,.N+NA+HumColl+z1:fs
+atelier de,.NDET+Dnom7
+atelier des,atelier de.NDET+Dnom7
+ateliers de,atelier de.NDET+Dnom7
+atout touristique,.N+NA+z2:ms
+attention particulière,.N+NA+z1:fs
+au bénéfice de,.PREP+PCDN1+z1
+au bénéfice,.ADV+PCDN+z1
+au bout du,au bout de.PREP+EPCDN+z1
+au bureau,.A+EPDETC+z1
+au coeur de,.PREP+EPCDN+z1
+au cours,.ADV+PCDN2+z1
+au mieux,.ADV+PCDN+z1
+au moins,.ADV+PDETC+z1
+au pays,.ADV+PDETC+z1
+au plus,.ADV+PDETC+z1
+au profit de,.PREP+PCDN+z1
+au prorata,.ADV+PCDN2+z1
+au quotidien,.ADV+PDETC+z1
+au sein de,.PREP+PCDN+z1
+au sein des,au sein de.PREP+EPCDN+z1
+au sein des,au sein de.PREP+PCDN+z1
+au sein du,au sein de.PREP+PCDN1+z1
+au service des,au service de.PREP+EPCDN+z1
+au sujet de,.PREP+EPCDN+z1
+au sujet,.ADV+PCDN+z1
+au-delà,.N+XX:ms
+aujourd'hui,.ADV+z1
+aussi bien,.A+EPA+z1:ms:fs:mp:fp
+aussi bien,.ADV+PAC+z1
+autre part,.ADV+PAC+z1
+aux champs,.ADV+PDETC+z1
+aviation civile,.N+NA+HumColl+z1:fs
+avocats de la défense,avocat de la défense.N+NDN+Hum:mp
+ball-trap,.N+NN+Conc+z2:ms
+banque de France,.N+NDN+Conc:fs
+banque de,.NDET+Dnom7
+Bas-Rhin,.N+AN:ms
+base de données,.N+NDN+Conc:fs
+bataillon de,.NDET+Dnom10
+bâtiment de,.NDET+Dnom7
+bibliothèque de,.NDET+Dnom10
+bibliothèque de,.NDET+Dnom7
+bibliothèque des,bibliothèque de.NDET+Dnom10
+bibliothèque des,bibliothèque de.NDET+Dnom7
+bien avec,.ADV+E1PN+z1
+bien-être,.N+XV+z1:ms:mp
+bien-être,.N+XV:ms:mp
+bon moment,.N+AN:ms
+bonnes affaires,bonne affaire.N+AN+Conc:fp
+bout du monde,.N+NDN+Conc:ms
+bout du,bout de.NDET+Dnom12b
+bureau de la,bureau de.NDET+Dnom7
+bureau de la,bureau de.NDET+Dnom8
+bureau de,.NDET+Dnom10
+bureau de,.NDET+Dnom7
+bureau de,.NDET+Dnom8
+c'est-à-dire,.ADV+PF
+cadre de vie,.N+NDN:ms
+camp de,.NDET+Dnom7
+campagnes de prévention,campagne de prévention.N+NDN:fp
+camps de réfugiés,camp de réfugiés.N+NDN+Conc:mp
+camps de,camp de.NDET+Dnom7
+cancer du sein,.N+NDN:ms
+carte des vins,.N+NDN+Conc:fs
+carte des,carte de.NDET+Dnom9
+catégories de,catégorie de.NDET+Dnom10
+ce jour,.ADV+PDETC+z1
+celles-ci,celui-ci.PRO+Pdem+z1:fp
+cent quarante,.DET+Dnum:mp:fp
+centrale d'achat,.N+NDN+Conc:fs
+centre aéré,.N+NA+Conc+HumColl+z1:ms
+centre commercial,.N+NA+Conc+HumColl+z1:ms
+centre culturel,.N+NA+Conc+HumColl+z1:ms
+centre de formation,.N+NDN+Conc:ms
+centre de gestion,.N+NDN+Conc:ms
+centre de recherche,.N+NDN+Conc:ms
+centre de ressources,.N+NDN+Conc:ms
+centre de soins,.N+NDN+Conc:ms
+centre de vacances,.N+NDN+Conc:ms
+centre équestre,.N+NA+Conc+HumColl:ms
+centre social,.N+NA+Conc+HumColl:ms
+centre-ville,.N+NN+Conc+z1:ms
+centres culturels,centre culturel.N+NA+Conc+HumColl+z1:mp
+centres de soins,centre de soins.N+NDN+Conc:mp
+centres dramatiques,centre dramatique.N+NA+Conc+HumColl:mp
+centres hospitaliers,centre hospitalier.N+NA+Conc+HumColl+z1:mp
+centres sociaux,centre social.N+NA+Conc+HumColl:mp
+cercle de,.NDET+Dnom10
+ceux-ci,celui-ci.PRO+Pdem+z1:mp
+chantiers navals,chantier naval.N+NA+Conc+z1:mp
+chapelle de,.NDET+Dnom7
+chargés de mission,chargé de mission.N+NDN+Hum:mp
+château de,.NDET+Dnom7
+chefs de clinique,chef de clinique.N+NDN+Hum:mp:fp
+chemin de,.NDET+Dnom8
+cheval barbe,.N+NN+Anl:ms
+cheval de race,.N+NDN+Anl:ms
+chevaux de course,cheval de course.N+NDN+Anl:mp
+chien de berger,.N+NDN+Anl:ms
+chiens de chasse,chien de chasse.N+NDN+Anl:mp
+choeur mixte,.N+NA+HumColl+z2:ms
+cité scolaire,.N+NA+Conc+z2:fs
+classe de,.NDET+Dnom10
+classe des,classe de.NDET+Dnom10
+classes de,classe de.NDET+Dnom10
+classes préparatoires,classe préparatoire.N+NA+HumColl+z1:fp
+clubs sportifs,club sportif.N+NA+Conc+HumColl+z1:mp
+collectif de,.NDET+Dnom10
+collection de,.NDET+Dnom10
+collectivités territoriales,collectivité territoriale.N+NA+HumColl:fp
+collège de,.NDET+Dnom10
+collège de,.NDET+Dnom7
+colonies de vacances,.N+NDN+HumColl:fp
+colonies de vacances,colonie de vacances.N+NDN+HumColl:fp
+colonies de,colonie de.NDET+Dnom10
+comité de coordination,.N+NDN+HumColl:ms
+comité de direction,.N+NDN+HumColl:ms
+comité de liaison,.N+NDN+HumColl:ms
+comité de,.NDET+Dnom10
+comité des,comité de.NDET+Dnom10
+comité régional,.N+NA+HumColl+z2:ms
+commerce international,.N+NA+z1:ms
+commerciale de,.NDET+Dnom7
+communauté de,.NDET+Dnom10
+communauté des,communauté de.NDET+Dnom10
+commune de,.NDET+Dnom7
+communes de,commune de.NDET+Dnom7
+compagnie des,compagnie de.NDET+Dnom10
+compagnies de,compagnie de.NDET+Dnom10
+compte tenu des,compte tenu de.PREP+PCDN+z1
+comptoir des,comptoir de.NDET+Dnom8
+conditions de travail,.N+NDN:fp
+conditions de vie,.N+NDN:fp
+conseil juridique,.N+NA+Hum:ms
+conseils de,conseil de.NDET+Dnom10
+conseils des,conseil de.NDET+Dnom10
+conseils juridiques,conseil juridique.N+NA+Hum:mp
+conservatoires nationaux,conservatoire national.N+NA+Conc+HumColl+z2:mp
+coordination des,coordination de.NDET+Dnom10
+copie de,.NDET+Dnom9
+corps humain,.N+NA+Conc+z1:ms
+coup de pouce,.N+NDN:ms
+coureurs de fond,coureur de fond.N+NDN+Hum:mp
+cours de danse,.N+NDN:ms:mp
+cours de,.NDET+Dnom10
+cours de,.NDET+Dnom7
+cours de,cour de.NDET+Dnom7
+cours des,.NDET+Dnom10
+cours des,cour de.NDET+Dnom7
+cours des,cours de.NDET+Dnom10
+Crédit agricole,.N+NA+Conc+HumColl+z1:ms
+crédit agricole,.N+NA+z1:ms
+Crédit lyonnais,.N+NA+Conc+HumColl+z1:ms
+cuisine de,.NDET+Dnom7
+curriculum vitae,.N+NX+Conc+z1:ms:mp
+d'ailleurs,.A+EPC+z1
+d'ailleurs,.ADV+PC+z1
+d'urgence,.ADV+PC+z1
+dans ces conditions,.ADV+PDETC+z1
+dans l'enseignement supérieur,.A+EPCA+z1
+dans l'enseignement,.A+EPDETC+z1
+dans l'industrie,.A+EPDETC+z1
+dans la région,.A+EPDETC+z1
+dans la restauration,.A+EPDETC+z1
+dans la vie,.ADV+PDETC+z1
+dans le besoin,.A+EPDETC+z1
+dans le but de,.PREP+EPCPQ+z1
+dans le but de,dans le but.PREP+Prépconjs+2
+dans le monde,.ADV+PDETC+z1
+dans le noir,.A+EPDETC+z1
+dans le noir,.ADV+PDETC+z1
+dans le respect de,.PREP+PCDN+z1
+dans le respect de,.PREP+PCDN1+z1
+dans le respect des,dans le respect de.PREP+PCDN+z1
+dans le respect,.ADV+PCDN+z1
+dans le secteur,.A+EPDETC+z1
+dans le système,.A+EPDETC+z1
+dans un esprit de,.PREP+PCDN+z1
+dans un esprit de,.PREP+PCDN1+z1
+dans un esprit,.ADV+PCDN+z1
+dans un premier temps,.ADV+PAC+z1
+danse classique,.N+NA+z1:fs
+danse de salon,.N+NDN:fs
+danse sportive,.N+NA+z2:fs
+de base,.A+EPC+z1
+de bonnes,.GN+A1+z1
+de confiance,.ADV+PC+z1
+de cuisine,.A+EPC+z1
+de demain,.A+EPC+z1
+de droit,.ADV+PC+z1
+de grande taille,.A+EPAC+z1
+de haut niveau,.A+EPAC+z1
+de haut,.ADV+PC+z1
+de l',du.DET+Dind+z1:ms:fs
+de la branche,.GN+A1+z1
+de la classe,.A+EPDETC+z1
+de la défense,.GN+A1+z1
+de la famille,.A+EPDETC+z1
+de la main,.ADV+PCDN+z1
+de la main,.ADV+PDETC+z1
+de la maison,.A+EPDETC+z1
+de la recherche,.GN+A1+z1
+de la région,.A+EPDETC+z1
+de la vie,.ADV+PCDN+z1
+de la vie,.ADV+PCDN2+z1
+de la,du.DET+Dind+z1:fs
+de Marseille,.A+EPC+z1
+de pierre,.A+EPC+z1
+de plus que,.CONJS+PCPN+z1
+de qualité,.A+EPC+z1
+de saison,.A+EPC+z1
+de suite,.ADV+PC+z1
+de tous les jours,.A+EPDETC+z1
+de tradition,.A+EPC+z1
+débat public,.N+NA+z1:ms
+déficients visuels,déficient visuel.N+NA+Hum:mp
+département de,.NDET+Dnom7
+départements des,département de.NDET+Dnom7
+développement agricole,.N+NA:ms
+développement culturel,.N+NA+z1:ms
+directeurs généraux,directeur général.N+NA+Hum+z1:mp
+discours scientifiques,discours scientifique.N+NA+z2:mp
+domaine de,.NDET+Dnom8
+domaine des,domaine de.NDET+Dnom8
+domaines de,domaine de.NDET+Dnom8
+domaines des,domaine de.NDET+Dnom8
+droit international,.N+NA+z1:ms
+du domaine de,.PREP+EPCDN+z1
+du droit,.ADV+PDETC+z1
+du métier,.A+EPDETC+z1
+école buissonnière,.N+NA+z1:fs
+école de commerce,.N+NDN+Conc:fs
+école de jazz,.N+NDN+Conc:fs
+école de musique,.N+NDN+Conc:fs
+école de voile,.N+NDN+Conc:fs
+école de,.NDET+Dnom7
+école des,école de.NDET+Dnom7
+école hôtelière,.N+NA+Conc+HumColl+z1:fs
+école laïque,.N+NA+Conc+HumColl:fs
+école maternelle,.N+NA+Conc+HumColl+z1:fs
+école publique,.N+NA+Conc+HumColl+z1:fs
+écoles de,école de.NDET+Dnom7
+économique et social,.A+EAPC+z1:ms
+éducateurs spécialisés,éducateur spécialisé.N+NA+Hum+z1:mp
+éducation musicale,.N+NA+z1:fs
+éducation nationale,.N+NA:fs
+éducation nouvelle,.N+NA:fs
+éducation physique,.N+NA+z1:fs
+éducation populaire,.N+NA+z2:fs
+élément liquide,.N+NA+Conc+z2:ms
+élevage bovin,.N+NA+z2:ms
+éleveurs de chevaux,éleveur de chevaux.N+NDN+Hum:mp
+en abrégé,.ADV+PC+z1
+en activité,.A+EPC+z1
+en application,.A+EPC+z1
+en avant,.ADV+PC+z1
+en cas,.ADV+Advconjs+6
+en cas,.ADV+PCDN+z1
+en charge de,.PREP+EPCPQ+z1
+en charge des,en charge de.PREP+EPCPQ+z1
+en charge,.A+EPC+z1
+en charge,.ADV+PC+z1
+en construction,.A+EPC+z1
+en cours,.A+EPC+z1
+en croisière,.A+EPC+z1
+en difficulté,.A+EPC+z1
+en droit,.A+EPC+z1
+en droit,.ADV+PC+z1
+en équipe,.A+EPC+z1
+en équipe,.ADV+PC+z1
+en exploitation,.A+EPC+z1
+en famille,.A+EPC+z1
+en faveur de,.PREP+PCDN+z1
+en faveur de,.PREP+PCDN1+z1
+en faveur des,en faveur de.PREP+PCDN+z1
+en faveur,.ADV+PCDN+z1
+en fonction des,en fonction de.PREP+PCDN+z1
+en fonction,.A+EPC+z1
+en fonction,.ADV+PCDN+z1
+en formation,.A+EPC+z1
+en jeu,.A+EPC+z1
+en main,.A+EPC+z1
+en main,.ADV+ANP2+z1
+en matière,.ADV+PCDN+z1
+en médecine,.A+EPC+z1
+en mouvement,.A+EPC+z1
+en oeuvre,.A+EPC+z1
+en partenariat avec,.PREP+EPCPN+z1
+en partie,.ADV+PC+z1
+en passant par,.ADV+PV+z1
+en passant,.ADV+PV+z1
+en pharmacie,.A+EPC+z1
+en place pour,.ADV+EPCPQ+z1
+en place,.A+EPC+z1
+en plein coeur de,.PREP+EPCDN+z1
+en plein coeur,.ADV+PAC+z1
+en plein,.ADV+PCPN+z1
+en quelques mots,.ADV+PDETC+z1
+en quête de,.PREP+EPCDN+z1
+en relation avec,.ADV+PCPN+z1
+en relation avec,.PREP+EPCPN+z1
+en relation avec,.PREP+PCPN+z1
+en renouvellement,.A+EPC+z1
+en république,.A+EPC+z1
+en sécurité,.A+EPC+z1
+en semaine,.ADV+PC+z1
+en situation de,.PREP+EPCPQ+z1
+en situation,.A+EPC+z1
+en soirée,.A+EPC+z1
+en soirée,.ADV+PC+z1
+en souffrance,.A+EPC+z1
+en studio,.A+EPC+z1
+en valeur,.A+EPC+z1
+en vertu de,.PREP+EPCPQ+z1
+en vertu de,.PREP+PCDN+z1
+en vertu de,.PREP+PCDN1+z1
+en vertu,.ADV+PCDN+z1
+en vigueur,.A+EPC+z1
+en vue,.A+EPC+z1
+en vue,.ADV+PCDN+z1
+en vue,.PCDN3
+enfance en difficulté,.N+NPN+HumColl:fs
+enfance inadaptée,.N+NA+z1:fs
+enfants autistes,enfant autiste.N+NA+Hum+z2:mp:fp
+enfants de troupe,enfant de troupe.N+NDN+Hum:mp:fp
+enfants handicapés,enfant handicapé.N+NA+Hum+z1:mp
+enseignement artistique,.N+NA+z1:ms
+enseignement général,.N+NA+z1:ms
+enseignement privé,.N+NA+z1:ms
+enseignement supérieur,.N+NA+z1:ms
+enseignement technique,.N+NA+z1:ms
+ensemble de ses,ensemble de.NDET+Dnom10
+ensemble de,.NDET+Dnom10
+ensemble des,ensemble de.NDET+Dnom10
+ensemble vocal,.N+NA+HumColl+z1:ms
+entourage familial,.N+NA+HumColl+z1:ms
+entre amis,.A+EPC+z1
+entre eux,.A+EPC+z1
+entre vous,.A+EPC+z1
+entrée libre,.N+NA+E01+z1:fs
+entreprise de nettoyage,.N+NDN+HumColl:fs
+entreprises commerciales,entreprise commerciale.N+NA+Conc+HumColl+z1:fp
+équipage de,.NDET+Dnom10
+équipements médicaux,équipement médical.N+NA+Conc+z2:mp
+équipes de,équipe de.NDET+Dnom10
+espace public,.N+NA+Conc+z2:ms
+espace vert,.N+NA+Conc+z1:ms
+esprit d'équipe,.N+NDN:ms
+esprit de compétition,.N+NDN:ms
+et des,.ADV+BIZ+z1
+et des,.ADV+PJC+z1
+établissement scolaire,.N+NA+Conc+z1:ms
+établissements de santé,établissement de santé.N+NDN+Conc:mp
+établissements privés,établissement privé.N+NA+Conc+z1:mp
+établissements spécialisés,établissement spécialisé.N+NA+Conc+z1:mp
+Etats généraux,.N+NA+HumColl+z2:mp
+étudiants en droit,étudiant en droit.N+NPN+Hum:mp
+étudiants en médecine,étudiant en médecine.N+NPN+Hum+z1:mp
+étudiants en médecine,étudiant en médecine.N+NPN+Hum:mp
+étudiants en sciences,étudiant en sciences.N+NPN+Hum+z1:mp
+éventail de,.NDET+Dnom10
+expériences scientifiques,expérience scientifique.N+NA+z1:fp
+face à,.ADV+PCPN+z1
+face à,.PREP+E1PN+z1
+face à,.PREP+PCPN+z1
+face au,face à.PREP+PCPN+z1
+facture instrumentale,.N+NA:fs
+familiale de,.NDET+Dnom7
+familles de,famille de.NDET+Dnom10
+familles monoparentales,famille monoparentale.N+NA+HumColl+z2:fp
+fédération départementale,.N+NA+HumColl+z2:fs
+fédération des,fédération de.NDET+Dnom10
+fédération française,.N+NA+HumColl+z1:fs
+fédération nationale,.N+NA+HumColl+z2:fs
+fête religieuse,.N+NA+z1:fs
+fil des,fil de.NDET+Dnom6
+films publicitaires,film publicitaire.N+NA+Conc+z1:mp
+foie gras,.N+NA+Conc+z1:ms
+foies gras,foie gras.N+NA+Conc+z1:mp
+fonctionnaires internationaux,fonctionnaire international.N+NA+Hum+z2:mp
+Force ouvrière,.N+NA+HumColl:fs
+forêt domaniale,.N+NA+Conc:fs
+formation continue,.N+NA+z1:fs
+formation de,.NDET+Dnom10
+formation des cadres,.N+NDN:fs
+formation des,formation de.NDET+Dnom10
+formation en alternance,.N+NPN+z1:fs
+formation en alternance,.N+NPN:fs
+formation professionnelle,.N+NA+z1:fs
+formations techniques,formation technique.N+NA+z2:fp
+forme de,.NDET+Dnom7
+forme des,forme de.NDET+Dnom7
+formes de,forme de.NDET+Dnom7
+foyer de jeunes travailleurs,.N+NPAN+HumColl:ms
+foyer de jeunes,.N+NDN+Conc:ms
+foyer de,.NDET+Dnom7
+foyers ruraux,foyer rural.N+NA+z2:mp
+franc de,.NDET+Dnom6
+Franche-Comté,.N+AN+Conc:fs
+franco-allemande,franco-allemand.A+XA:fs
+franco-britanniques,franco-britannique.A+XA:mp:fp
+galeries du,galerie de.NDET+Dnom7
+gallo-romaines,gallo-romain.A+EPA+z1:fp
+gallo-romaines,gallo-romain.A+XA:fp
+génération des,génération de.NDET+Dnom10
+générations de,génération de.NDET+Dnom10
+génie biomédical,.N+NA:ms
+génie civil,.N+NA+z2:ms
+génie industriel,.N+NA+z2:ms
+génie parasismique,.N+NA:ms
+gens d'affaires,.N+NDN+HumColl:mp
+gestion des ressources humaines,.N+NPNA:fs
+gestion financière,.N+NA+z1:fs
+gestion municipale,.N+NA+z2:fs
+grâce à,.ADV+PCPN+z1
+grâce à,.PREP+PCPN+z1
+grâce au,grâce à.ADV+PCPN+z1
+grain de sel,.N+NDN+Abst:ms
+grain de sel,.N+NDN+Conc:ms
+grain de,.NDET+Dnom5
+grand choix,.N+AN:ms
+grand public,.N+AN+HumColl:ms
+grand-duché,.N+AN+Conc:ms
+grandes écoles,.N+AN:fp
+grandes écoles,grande école.N+AN+Conc:fp
+grandes entreprises,grande entreprise.N+AN+HumColl:fp
+grandes orgues,.N+AN+Conc:fp
+grands boulevards,.N+AN+Conc:mp
+groupe de,.NDET+Dnom10
+groupe scolaire,.N+NA+HumColl+z1:ms
+guerre mondiale,.N+NA+z1:fs
+guerre nucléaire,.N+NA+z1:fs
+guides touristiques,guide touristique.N+NA+Conc+z1:mp
+halles de,halle de.NDET+Dnom7
+handicapées mentales,handicapé mental.N+NA+Hum+z1:fp
+Haut-Rhin,.N+AN:ms
+Haute-Savoie,.N+AN+Conc:fs
+Haute-Vienne,.N+AN+Conc:fs
+Hautes-Pyrénées,.N+AN+Conc:fp
+hauts fonctionnaires,haut fonctionnaire.N+AN+Hum:mp
+héritiers directs,héritier direct.N+NA+Hum+z1:mp
+histoire de l'art,.N+NDN+Conc:fs
+histoire de l'art,.N+NDN:fs
+histoire de,histoire.PREP+Prépconjs+2
+histoire des,histoire.PREP+Prépconjs+2
+histoire du,histoire.PREP+Prépconjs+2
+hôpital de,.NDET+Dnom7
+hôpital public,.N+NA+Conc+z2:ms
+hôpitaux universitaires,hôpital universitaire.N+NA+Conc+z2:mp
+hôtels de,hôtel de.NDET+Dnom7
+hydraulique agricole,.N+NA:fs
+identité visuelle,.N+NA:fs
+île de France,.N+NDN:fs
+Ile-de-France,.N+NDN+Conc:fs
+industrie électronique,.N+NA+z2:fs
+industrielle et commerciale,industriel et commercial.A+EAPC+z1:fs
+infirmières libérales,infirmier libéral.N+NA+Hum:fp
+ingénieurs diplômés,ingénieur diplômé.N+NA+Hum+z2:mp
+insertion professionnelle,.N+NA+z1:fs
+intérêt collectif,.N+NA:ms
+intervention chirurgicale,.N+NA+z1:fs
+jardin botanique,.N+NA+Conc+z2:ms
+jardin de,.NDET+Dnom7
+jardins de,jardin de.NDET+Dnom7
+jardins familiaux,jardin familial.N+NA+Conc+z2:mp
+Jean Cocteau,.N+Hum+NPropre:ms
+jeune âge,.N+AN:ms
+jeunes femmes,jeune femme.N+AN+Hum:fp
+jeux de,jeu de.NDET+Dnom10
+joueurs de rugby,joueur de rugby.N+NDN+Hum:mp
+jours heureux,.N+NA+A12+z1:mp
+justice pénale,.N+NA+z2:fs
+l'eau,.GN+A1+z1
+l'électricité,.GN+A1+z1
+l'on,.PRO+PpvIL+z1:3fs:3ms
+l'univers,.ADV+E1PN+z1
+la communication,.GN+A1+z1
+la fois,.ADV+PCDN+z1
+la langue et la culture,.GN+NCN:fp
+la main tendue,.GN+A12+z1
+la main,.GN+A1+z1
+la majorité,.GN+A1+z1
+la pêche,.GN+A1+z1
+la veille,.ADV+PCDN+z1
+la veille,.ADV+PCDN2+z1
+la vocation,.GN+A1+z1
+langues étrangères,langue étrangère.N+NA+z1:fp
+large éventail,.N+AN:ms
+le plus,.ADV+PCDN+z1
+le plus,.ADV+PCDN2+z1
+Légion d'honneur,.N+NDN:fs
+les moyens,.GN+A1+z1
+les uns,l'un.PRO+Pind+z1:mp
+librairie spécialisée,.N+NA+Conc+z1:fs
+librairies spécialisées,librairie spécialisée.N+NA+Conc+z1:fp
+liens étroits,lien étroit.N+NA+E01+z1:mp
+lieu de rencontre,.N+NDN+Conc:ms
+lieu de vie,.N+NDN+Conc:ms
+lieux de culte,lieu de culte.N+NDN+Conc:mp
+liste des,liste de.NDET+Dnom10
+livre blanc,.N+NA+Conc+z1:ms
+Loir-et-Cher,.N+NCN+Conc:ms
+lors du,lors de.PREP+PCDN+z1
+lutte contre la faim,.N+NPN+z1:fs
+lycée professionnel,.N+NA+Conc+HumColl+z1:ms
+lycées de,lycée de.NDET+Dnom7
+magazine de,.NDET+Dnom9
+main tendue,.N+NA+z1:fs
+maires ruraux,maire rural.N+NA+Hum:mp
+maison de,.NDET+Dnom7
+maison des,maison de.NDET+Dnom7
+maisons de retraite,maison de retraite.N+NDN+Conc:fp
+maisons de,maison de.NDET+Dnom7
+maisons familiales,maison familiale.N+NA+Conc+HumColl+z1:fp
+maître artisan,.N+NN+Hum:ms
+maîtrise des,maîtrise de.NDET+Dnom10
+maladies chroniques,maladie chronique.N+NA+z1:fp
+maladies héréditaires,maladie héréditaire.N+NA+z1:fp
+manifestations artistiques,manifestation artistique.N+NA+z1:fp
+marché de l',marché de.NDET+Dnom7
+marché de,.NDET+Dnom7
+marché des,marché de.NDET+Dnom7
+marché français,.N+NA+z1:ms
+marché local,.N+NA+z2:ms
+marchés publics,marché public.N+NA:mp
+médecine générale,.N+NA+z1:fs
+médecine interne,.N+NA:fs
+médecine nucléaire,.N+NA:fs
+médecine vétérinaire,.N+NA:fs
+médecins généralistes,médecin généraliste.N+NN+Hum+z1:mp
+médico-sociale,médico-social.A+XA:fs
+médico-sociaux,médico-social.A+XA:mp
+membre à part entière,.N+NPNA+Hum:ms
+mémoire de,.NDET+Dnom9
+mesures de,mesure de.NDET+Dnom4
+mesures de,mesure de.NDET+Dnom7
+méthode thérapeutique,.N+NA+z2:fs
+métiers d'art,métier d'art.N+NDN:mp
+mie de pain,.N+NDN+Conc:fs
+milliard de,.NDET+Dnom1
+milliard de,.NDET+Dnom6
+mise en place,.N+NPN+z1:fs
+mise en place,.N+NPN:fs
+mise en valeur,.N+NPN+z1:fs
+mise en valeur,.N+NPN:fs
+mont-Blanc,.N+NA+Conc+z1:ms
+mont-blanc,.N+NA+Conc+z2:ms
+mosquée de,.NDET+Dnom7
+moyen de transport,.N+NDN:ms
+multitude de,.NDET+Dnom10
+musée de l',musée de.NDET+Dnom7
+musée de la,musée de.NDET+Dnom7
+musée de,.NDET+Dnom7
+musée national,.N+NA+Conc+z1:ms
+musées de,musée de.NDET+Dnom7
+musiciens amateurs,musicien amateur.N+NA+Hum+z1:mp
+musique baroque,.N+NA+z2:fs
+musique brésilienne,.N+NA+z1:fs
+nappe phréatique,.N+NA+Conc+z2:fs
+nombre des,nombre de.NDET+Dnom10
+non-violent,.A+XA:ms
+non-violent,.N+XN+Hum+z1:ms
+non-violent,.N+XN+Hum:ms
+nord-ouest,.N+NN+z1:ms
+Notre-Dame,.N+XN+Conc+z1:fs
+Notre-Dame,.N+XN+Conc:fs
+nouveaux arrivants,nouvel arrivant.N+AN+Hum:mp
+nouvelles générations,nouvelle génération.N+AN+HumColl:fp
+oeuvres sociales,.N+NA+z1:fp
+officiers de réserve,officier de réserve.N+NDN+Hum:mp
+ondes électromagnétiques,onde électromagnétique.N+NA+z2:fp
+ordre judiciaire,.N+NA:ms
+organisme de formation,.N+NDN+HumColl:ms
+organisme professionnel,.N+NA+HumColl+z1:ms
+organismes communautaires,organisme communautaire.N+NA+HumColl+z2:mp
+outil de recherche,.N+NDN+Conc:ms
+outre-mer,.A+EPC+z1
+outre-mer,.ADV+PC+z1
+page de,.NDET+Dnom9
+par exemple,.ADV+PC+z1
+par la main,.ADV+PDETC+z1
+par le ministère,.ADV+PCDN+z1
+parc de,.NDET+Dnom10
+parc de,.NDET+Dnom7
+parc industriel,.N+NA+Conc+z2:ms
+parcs de loisirs,parc de loisirs.N+NDN+Conc:mp
+parcs de,parc de.NDET+Dnom10
+parcs de,parc de.NDET+Dnom7
+pas à pas,.ADV+PCPC+z1
+pas de,.NDET+Dnom2
+pas du,pas de.NDET+Dnom2
+patrimoine culturel,.N+NA+z1:ms
+patrimoine public,.N+NA+z2:ms
+patrimoines culturels,patrimoine culturel.N+NA+z1:mp
+pavillon chinois,.N+NA+Conc:ms
+pays de,.NDET+Dnom7
+pays des,pays de.NDET+Dnom7
+personnels civils,personnel civil.N+NA+HumColl+z2:mp
+personnes âgées,personne âgée.N+NA+Hum+z1:fp
+personnes physiques,personne physique.N+NA+Hum+z1:fp
+petite enfance,.N+AN:fs
+pharmacie de,.NDET+Dnom7
+Philippe de Villiers,.N+Hum+NPropre:ms
+pic du Midi,.N+NDN+Conc:ms
+place de,.NDET+Dnom8
+place des,place de.NDET+Dnom8
+plan de formation,.N+NDN:ms:fs
+plan de,.NDET+Dnom8
+plateau de,.NDET+Dnom8
+plein air,.N+AN:ms
+plus grand nombre,.N+NXN:ms
+plus que jamais,.ADV+PCONJ+z1
+plus que,.ADV+PAC+z1
+plus que,.CONJS+PAC+z1
+plus que,plus.CONJS+8
+plus tôt,.ADV+PAC+z1
+plus-value,.N+XN:fs
+plusieurs fois,.ADV+PDETC+z1
+plutôt que,plutôt.CONJS+8
+point du,point de.NDET+Dnom2
+pont de,.NDET+Dnom8
+pont du,pont de.NDET+Dnom8
+pont suspendu,.N+NA+Conc+z1:ms
+port de,.NDET+Dnom7
+porte-parole,.N+VN+Hum:ms:fs:mp:fp
+portée de,.NDET+Dnom10
+porteurs de,porteur de.NDET+Dnom7
+poste de secours,.N+NDN+Conc:ms
+poste de,.NDET+Dnom7
+pour adultes,.A+EPC+z1
+pour demain,.A+EPC+z1
+pour en savoir plus,.ADV+PV+z1
+pour l'amour de,.PREP+PCDN1+z1
+pour l'amour,.ADV+PCDN+z1
+pour la vie,.ADV+PDETC+z1
+pour parler,.ADV+PV+z1
+pour que,pour.CONJS+1
+pour que,pour.CONJS+2
+pouvoirs publics,.N+NA+HumColl+z1:mp
+pouvoirs publics,pouvoir public.N+NA+HumColl:mp
+pratique professionnelle,.N+NA+z1:fs
+pratique sportive,.N+NA+z2:fs
+premier pas,.N+AN:ms
+première guerre mondiale,.N+ANA:fs
+près de,.PREP+EPCPQ+z1
+presse périodique,.N+NA:fs
+prévention routière,.N+NA+z1:fs
+prévoyance sociale,.N+NA+z2:fs
+prise en charge,.N+NPN:fs
+prix compétitifs,prix compétitif.N+NA+z1:mp
+problème majeur,.N+NA+z1:ms
+procédure judiciaire,.N+NA+z1:fs
+producteurs de films,producteur de film.N+NDN+Hum:mp
+productions animales,production animale.N+NA+Conc+z1:fp
+produits agricoles,produit agricole.N+NA+Conc+z1:mp
+professionnels de la communication,professionnel de la communication.N+NDN+Hum:mp
+professions de santé,profession de santé.N+NDN:fp
+professions libérales,profession libérale.N+NA+z1:fp
+programme de formation,.N+NDN:ms
+progrès économique,.N+NA+z1:ms
+progrès social,.N+NA+z1:ms
+projet éducatif,.N+NA+z1:ms
+propriétaires immobiliers,propriétaire immobilier.N+NA+Hum+z2:mp
+protection animale,.N+NA+z1:fs
+protection de l'environnement,.N+NDN:fs
+protection juridique,.N+NA+z1:fs
+prothèse dentaire,.N+NA+Conc+z2:fs
+prothèses dentaires,prothèse dentaire.N+NA+Conc+z2:fp
+psychothérapie analytique,.N+NA+z2:fs
+publics de,public de.NDET+Dnom10
+qualification professionnelle,.N+NA+z1:fs
+qualité de l'air,.N+NDN:fs
+qualité de la vie,.N+NDN:fs
+qualités naturelles,qualité naturelle.N+NA+z1:fp
+quart-monde,.N+AN+HumColl:ms
+quartier de la,quartier de.NDET+Dnom12b
+quartier de la,quartier de.NDET+Dnom2
+quartier de,.NDET+Dnom12b
+quartier de,.NDET+Dnom2
+quartier de,.NDET+Dnom7
+quartiers de,quartier de.NDET+Dnom12b
+quartiers de,quartier de.NDET+Dnom2
+quartiers de,quartier de.NDET+Dnom7
+quotidiens des,quotidien de.NDET+Dnom9
+rapport à,.ADV+PCPN+z1
+rapport à,.PREP+PCPN+z1
+rapport à,.PREP+Prépconjs+1
+recettes de cuisine,recette de cuisine.N+NDN:fp
+recherche appliquée,.N+NA+z1:fs
+recherche d'emploi,.N+NDN:fs
+recherche fondamentale,.N+NA+z1:fs
+recherche universitaire,.N+NA+z2:fs
+rectocolite hémorragique,.N+NA:fs
+région de,.NDET+Dnom7
+région des,région de.NDET+Dnom7
+région lyonnaise,.N+NA+Conc:fs
+règlement amiable,.N+NA+z1:ms
+règlement intérieur,.N+NA+z1:ms
+regroupement des,regroupement de.NDET+Dnom14
+réinsertion sociale,.N+NA+z1:fs
+relations internationales,relation internationale.N+NA+z1:fp
+répertoire de,.NDET+Dnom9
+respect des règles,.N+NDN:ms
+responsabilité civile,.N+NA+z1:fs
+ressources humaines,.N+NA+HumColl:fp
+ressources naturelles,.N+NA+z1:fp
+restaurants de,restaurant de.NDET+Dnom7
+revue de,.NDET+Dnom9
+rôles de,rôle de.NDET+Dnom9
+rues de,rue de.NDET+Dnom7
+rythme cardiaque,.N+NA+z1:ms
+Sacré Coeur,.N+AN:ms
+sages-femmes,sage-femme.N+AN+Hum:fp
+saint-jean,.N+AN+Conc:ms:mp
+saint-michel,.N+AN:ms
+salle de sport,.N+NDN+Conc:fs
+salle de,.NDET+Dnom7
+salle polyvalente,.N+NA+Conc+z2:fs
+salon annuel,.N+NA+z1:ms
+salons de,salon de.NDET+Dnom7
+santé mentale,.N+NA+z1:fs
+sapin de Noël,.N+NDN+Conc:ms
+savoir-faire,.N+VV:ms:mp
+science politique,.N+NA+z1:fs
+sciences appliquées,science appliquée.N+NA+z1:fp
+sciences de l'information,.N+NDN:fp
+sciences physiques,science physique.N+NA+z1:fp
+scientifiques et techniques,scientifique et technique.A+EAPC+z1:mp:fp
+section départementale,.N+NA+HumColl+z2:fs
+Seine Maritime,.N+NA+Conc:fs
+séjours de,séjour de.NDET+Dnom7
+semaine de l',semaine de.NDET+Dnom13
+semaine de,.NDET+Dnom13
+séminaires de,séminaire de.NDET+Dnom10
+service de,.NDET+Dnom10
+service des,service de.NDET+Dnom10
+service médical,.N+NA+HumColl+z2:ms
+services de,service de.NDET+Dnom10
+services sociaux,service social.N+NA+HumColl+z1:mp
+side-cars,side-car.N+XN+Conc:mp
+siège social,.N+NA+Conc+HumColl+z1:ms
+sites miniers,site minier.N+NA+Conc+z2:mp
+société des,société de.NDET+Dnom10
+société française,.N+NA+HumColl+z1:fs
+société industrielle,.N+NA+HumColl+z2:fs
+société savante,.N+NA+HumColl+z2:fs
+soins à domicile,.N+NAN:mp
+soins palliatifs,.N+NA:mp
+solidarité internationale,.N+NA+z1:fs
+sommes des,somme de.NDET+Dnom10
+souffrance psychique,.N+NA+z1:fs
+sous la direction de,.PREP+EPCDN+z1
+sous-bois,.N+PN+Conc:ms:mp
+soutien moral,.N+NA+z1:ms
+stade olympique,.N+NA+Conc+z1:ms
+sud-est,.N+NN+Conc+z1:ms
+sud-ouest,.N+NN+Conc+z1:ms
+Suisse romande,.N+NA+z2:fs
+sur ce,.ADV+PC+z1
+sur le marché,.A+EPDETC+z1
+sur mesure,.A+EPC+z1
+syndicat départemental,.N+NA+HumColl:ms
+syndicat des,syndicat de.NDET+Dnom10
+syndicats de,syndicat de.NDET+Dnom10
+syndicats professionnels,syndicat professionnel.N+NA+HumColl+z1:mp
+système de gestion,.N+NDN:ms
+système de santé,.N+NDN+HumColl:ms
+système scolaire,.N+NA+z1:ms
+systèmes informatiques,système informatique.N+NA+Conc+z1:mp
+taxis de,taxi de.NDET+Dnom7
+techniciens de laboratoire,technicien de laboratoire.N+NDN+Hum:mp
+techniciens supérieurs,technicien supérieur.N+NA+Hum+z1:mp
+technologie nucléaire,.N+NA:fs
+tennis de table,.N+NDN:ms
+tensions internes,tension interne.N+NA+z1:fp
+terrains de golf,terrain de golf.N+NDN+Conc:mp
+terrains de,terrain de.NDET+Dnom8
+tête de réseau,.N+NDN+Conc:fs
+tour du monde,.N+NDN:ms
+tous les ans,.ADV+PDETC+z1
+tous les jours,.ADV+PDETC+z1
+tout à la fois,.ADV+PDETC+z1
+tout à,.PREP+E1PN+z1
+tout au,tout à.PREP+E1PN+z1
+tout-petit,.N+AN+Hum:ms:mp
+travailleurs handicapés,travailleur handicapé.N+NA+Hum+z2:mp
+tribunal administratif,.N+NA+HumColl+z2:ms
+tumeurs endocrines,tumeur endocrine.N+NA+Conc:fp
+un coup de pouce à,.PREP+E1PN+z1
+un coup,.ADV+PDETC+z1
+un lien entre,.ADV+E1PN+z1
+une fois,.ADV+PDETC+z1
+Union européenne,.N+NA+HumColl:fs
+unités de,unité de.NDET+Dnom10
+université de Paris,.N+NDN+Conc:fs
+université de,.NDET+Dnom7
+utilité publique,.N+NA+z1:fs
+vacances de printemps,.N+NDN:fp
+vacances scolaires,.N+NA+z1:fp
+veau fermier,.N+NA+Anl+Conc+z2:ms
+véhicule de,.NDET+Dnom7
+véhicules de,véhicule de.NDET+Dnom7
+véhicules militaires,véhicule militaire.N+NA+Conc+z1:mp
+vergers de,verger de.NDET+Dnom7
+version originale,.N+NA+z1:fs
+vice-président,.N+XN+Hum:ms
+vice-présidents,vice-président.N+XN+Hum+z1:mp
+vice-présidents,vice-président.N+XN+Hum:mp
+vie culturelle,.N+NA:fs
+vie de quartier,.N+NDN:fs
+vie de tous les jours,.N+NDN:fs
+vie de tous les jours,.N+NPNPN:fs
+vie économique,.N+NA+z1:fs
+vie scolaire,.N+NA+z1:fs
+vie sociale,.N+NA+z1:fs
+village de,.NDET+Dnom7
+villages de,village de.NDET+Dnom7
+ville de,.NDET+Dnom7
+villes de,ville de.NDET+Dnom7
+voie de la,voie de.NDET+Dnom4
+voie de la,voie de.NDET+Dnom8
+voie de,.NDET+Dnom4
+voie de,.NDET+Dnom8
+voitures anciennes,voiture ancienne.N+NA+Conc+z1:fp
+voix forte,.N+NA+E01+z1:fs
+week-end,.N+XN+z1:ms
+zone de,.NDET+Dnom7
+zone rurale,.N+NA+Conc+z1:fs
