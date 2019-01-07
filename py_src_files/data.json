@@ -1,0 +1,4798 @@
+[
+   {
+      "frequency": 32,
+      "element": "français"
+   },
+   {
+      "frequency": 24,
+      "element": "national"
+   },
+   {
+      "frequency": 19,
+      "element": "ami"
+   },
+   {
+      "frequency": 15,
+      "element": "ancien"
+   },
+   {
+      "frequency": 15,
+      "element": "parent"
+   },
+   {
+      "frequency": 13,
+      "element": "commerçant"
+   },
+   {
+      "frequency": 13,
+      "element": "élever"
+   },
+   {
+      "frequency": 12,
+      "element": "france"
+   },
+   {
+      "frequency": 8,
+      "element": "famille"
+   },
+   {
+      "frequency": 8,
+      "element": "jeune"
+   },
+   {
+      "frequency": 8,
+      "element": "promotion"
+   },
+   {
+      "frequency": 8,
+      "element": "parent élever"
+   },
+   {
+      "frequency": 7,
+      "element": "artisan"
+   },
+   {
+      "frequency": 7,
+      "element": "professionnel"
+   },
+   {
+      "frequency": 6,
+      "element": "contrer"
+   },
+   {
+      "frequency": 6,
+      "element": "étudiant"
+   },
+   {
+      "frequency": 6,
+      "element": "école"
+   },
+   {
+      "frequency": 5,
+      "element": "lutter"
+   },
+   {
+      "frequency": 5,
+      "element": "ingénieur"
+   },
+   {
+      "frequency": 5,
+      "element": "femme"
+   },
+   {
+      "frequency": 5,
+      "element": "malade"
+   },
+   {
+      "frequency": 5,
+      "element": "maire"
+   },
+   {
+      "frequency": 5,
+      "element": "propriétaire"
+   },
+   {
+      "frequency": 5,
+      "element": "avoir"
+   },
+   {
+      "frequency": 5,
+      "element": "ancien élever"
+   },
+   {
+      "frequency": 4,
+      "element": "entreprise"
+   },
+   {
+      "frequency": 4,
+      "element": "cinéma"
+   },
+   {
+      "frequency": 4,
+      "element": "gestion"
+   },
+   {
+      "frequency": 4,
+      "element": "droit"
+   },
+   {
+      "frequency": 4,
+      "element": "diplômer"
+   },
+   {
+      "frequency": 4,
+      "element": "patient"
+   },
+   {
+      "frequency": 4,
+      "element": "etudiants"
+   },
+   {
+      "frequency": 4,
+      "element": "professeur"
+   },
+   {
+      "frequency": 4,
+      "element": "boire"
+   },
+   {
+      "frequency": 4,
+      "element": "suisse"
+   },
+   {
+      "frequency": 4,
+      "element": "art"
+   },
+   {
+      "frequency": 4,
+      "element": "centrer"
+   },
+   {
+      "frequency": 4,
+      "element": "être"
+   },
+   {
+      "frequency": 4,
+      "element": "développement"
+   },
+   {
+      "frequency": 4,
+      "element": "muser"
+   },
+   {
+      "frequency": 3,
+      "element": "médecine"
+   },
+   {
+      "frequency": 3,
+      "element": "amateur"
+   },
+   {
+      "frequency": 3,
+      "element": "activité"
+   },
+   {
+      "frequency": 3,
+      "element": "ouest"
+   },
+   {
+      "frequency": 3,
+      "element": "cavalier"
+   },
+   {
+      "frequency": 3,
+      "element": "sport"
+   },
+   {
+      "frequency": 3,
+      "element": "producteur"
+   },
+   {
+      "frequency": 3,
+      "element": "commerçant artisan"
+   },
+   {
+      "frequency": 3,
+      "element": "général"
+   },
+   {
+      "frequency": 3,
+      "element": "boire non"
+   },
+   {
+      "frequency": 3,
+      "element": "boire non lucratif"
+   },
+   {
+      "frequency": 3,
+      "element": "lucratif"
+   },
+   {
+      "frequency": 3,
+      "element": "non"
+   },
+   {
+      "frequency": 3,
+      "element": "non lucratif"
+   },
+   {
+      "frequency": 3,
+      "element": "médecin"
+   },
+   {
+      "frequency": 3,
+      "element": "avocat"
+   },
+   {
+      "frequency": 3,
+      "element": "contrer faim"
+   },
+   {
+      "frequency": 3,
+      "element": "faim"
+   },
+   {
+      "frequency": 3,
+      "element": "science"
+   },
+   {
+      "frequency": 3,
+      "element": "français malade"
+   },
+   {
+      "frequency": 3,
+      "element": "formation"
+   },
+   {
+      "frequency": 3,
+      "element": "artiste"
+   },
+   {
+      "frequency": 3,
+      "element": "ancien élever école"
+   },
+   {
+      "frequency": 3,
+      "element": "élever école"
+   },
+   {
+      "frequency": 3,
+      "element": "information"
+   },
+   {
+      "frequency": 3,
+      "element": "service"
+   },
+   {
+      "frequency": 3,
+      "element": "quartier"
+   },
+   {
+      "frequency": 3,
+      "element": "cheval"
+   },
+   {
+      "frequency": 3,
+      "element": "ami muser"
+   },
+   {
+      "frequency": 3,
+      "element": "enseignement"
+   },
+   {
+      "frequency": 3,
+      "element": "promouvoir"
+   },
+   {
+      "frequency": 3,
+      "element": "véhiculer"
+   },
+   {
+      "frequency": 3,
+      "element": "indépendant"
+   },
+   {
+      "frequency": 3,
+      "element": "victime"
+   },
+   {
+      "frequency": 2,
+      "element": "animal"
+   },
+   {
+      "frequency": 2,
+      "element": "protection"
+   },
+   {
+      "frequency": 2,
+      "element": "commissaire"
+   },
+   {
+      "frequency": 2,
+      "element": "lutter contrer"
+   },
+   {
+      "frequency": 2,
+      "element": "région"
+   },
+   {
+      "frequency": 2,
+      "element": "chercheur"
+   },
+   {
+      "frequency": 2,
+      "element": "histoire"
+   },
+   {
+      "frequency": 2,
+      "element": "industriel"
+   },
+   {
+      "frequency": 2,
+      "element": "enfant"
+   },
+   {
+      "frequency": 2,
+      "element": "bâtiment"
+   },
+   {
+      "frequency": 2,
+      "element": "francophone"
+   },
+   {
+      "frequency": 2,
+      "element": "entrepreneur"
+   },
+   {
+      "frequency": 2,
+      "element": "militaire"
+   },
+   {
+      "frequency": 2,
+      "element": "nord"
+   },
+   {
+      "frequency": 2,
+      "element": "prévention"
+   },
+   {
+      "frequency": 2,
+      "element": "départemental"
+   },
+   {
+      "frequency": 2,
+      "element": "interne"
+   },
+   {
+      "frequency": 2,
+      "element": "ecole"
+   },
+   {
+      "frequency": 2,
+      "element": "toute"
+   },
+   {
+      "frequency": 2,
+      "element": "défense"
+   },
+   {
+      "frequency": 2,
+      "element": "commune"
+   },
+   {
+      "frequency": 2,
+      "element": "dan"
+   },
+   {
+      "frequency": 2,
+      "element": "département"
+   },
+   {
+      "frequency": 2,
+      "element": "oeuvrer"
+   },
+   {
+      "frequency": 2,
+      "element": "sage"
+   },
+   {
+      "frequency": 2,
+      "element": "peintre"
+   },
+   {
+      "frequency": 2,
+      "element": "ancien etudiants"
+   },
+   {
+      "frequency": 2,
+      "element": "coureur"
+   },
+   {
+      "frequency": 2,
+      "element": "journaliste"
+   },
+   {
+      "frequency": 2,
+      "element": "technique"
+   },
+   {
+      "frequency": 2,
+      "element": "classer"
+   },
+   {
+      "frequency": 2,
+      "element": "professeur science"
+   },
+   {
+      "frequency": 2,
+      "element": "association"
+   },
+   {
+      "frequency": 2,
+      "element": "maître"
+   },
+   {
+      "frequency": 2,
+      "element": "être association"
+   },
+   {
+      "frequency": 2,
+      "element": "international"
+   },
+   {
+      "frequency": 2,
+      "element": "lycée"
+   },
+   {
+      "frequency": 2,
+      "element": "musulman"
+   },
+   {
+      "frequency": 2,
+      "element": "culture"
+   },
+   {
+      "frequency": 2,
+      "element": "chinois"
+   },
+   {
+      "frequency": 2,
+      "element": "projet"
+   },
+   {
+      "frequency": 2,
+      "element": "guider"
+   },
+   {
+      "frequency": 2,
+      "element": "guider touristique"
+   },
+   {
+      "frequency": 2,
+      "element": "touristique"
+   },
+   {
+      "frequency": 2,
+      "element": "rugby"
+   },
+   {
+      "frequency": 2,
+      "element": "directeur"
+   },
+   {
+      "frequency": 2,
+      "element": "hôtelier"
+   },
+   {
+      "frequency": 2,
+      "element": "média"
+   },
+   {
+      "frequency": 2,
+      "element": "personne"
+   },
+   {
+      "frequency": 2,
+      "element": "affairer"
+   },
+   {
+      "frequency": 2,
+      "element": "gens"
+   },
+   {
+      "frequency": 2,
+      "element": "gens affairer"
+   },
+   {
+      "frequency": 2,
+      "element": "français cheval"
+   },
+   {
+      "frequency": 2,
+      "element": "jardin"
+   },
+   {
+      "frequency": 2,
+      "element": "généraliste"
+   },
+   {
+      "frequency": 2,
+      "element": "médecin généraliste"
+   },
+   {
+      "frequency": 2,
+      "element": "jeunesse"
+   },
+   {
+      "frequency": 2,
+      "element": "ami orgue"
+   },
+   {
+      "frequency": 2,
+      "element": "orgue"
+   },
+   {
+      "frequency": 2,
+      "element": "berger"
+   },
+   {
+      "frequency": 2,
+      "element": "chien"
+   },
+   {
+      "frequency": 2,
+      "element": "agent"
+   },
+   {
+      "frequency": 2,
+      "element": "ami château"
+   },
+   {
+      "frequency": 2,
+      "element": "château"
+   },
+   {
+      "frequency": 2,
+      "element": "pari"
+   },
+   {
+      "frequency": 2,
+      "element": "cavalier indépendant"
+   },
+   {
+      "frequency": 2,
+      "element": "français gestion"
+   },
+   {
+      "frequency": 2,
+      "element": "passionner"
+   },
+   {
+      "frequency": 2,
+      "element": "ouvrir"
+   },
+   {
+      "frequency": 2,
+      "element": "ouvrir artiste"
+   },
+   {
+      "frequency": 2,
+      "element": "porter"
+   },
+   {
+      "frequency": 2,
+      "element": "porter ouvrir"
+   },
+   {
+      "frequency": 2,
+      "element": "porter ouvrir artiste"
+   },
+   {
+      "frequency": 2,
+      "element": "agir"
+   },
+   {
+      "frequency": 2,
+      "element": "qualité"
+   },
+   {
+      "frequency": 2,
+      "element": "électronique"
+   },
+   {
+      "frequency": 2,
+      "element": "club"
+   },
+   {
+      "frequency": 2,
+      "element": "saint"
+   },
+   {
+      "frequency": 2,
+      "element": "génie"
+   },
+   {
+      "frequency": 1,
+      "element": "déléguer"
+   },
+   {
+      "frequency": 1,
+      "element": "animal recueillir"
+   },
+   {
+      "frequency": 1,
+      "element": "animal recueillir famille"
+   },
+   {
+      "frequency": 1,
+      "element": "protection animal"
+   },
+   {
+      "frequency": 1,
+      "element": "protection animal recueillir"
+   },
+   {
+      "frequency": 1,
+      "element": "recueillir"
+   },
+   {
+      "frequency": 1,
+      "element": "recueillir famille"
+   },
+   {
+      "frequency": 1,
+      "element": "médecine nucléaire"
+   },
+   {
+      "frequency": 1,
+      "element": "nucléaire"
+   },
+   {
+      "frequency": 1,
+      "element": "technicien"
+   },
+   {
+      "frequency": 1,
+      "element": "technicien médecine"
+   },
+   {
+      "frequency": 1,
+      "element": "technicien médecine nucléaire"
+   },
+   {
+      "frequency": 1,
+      "element": "commissaire enquêteur"
+   },
+   {
+      "frequency": 1,
+      "element": "enquêteur"
+   },
+   {
+      "frequency": 1,
+      "element": "fonder"
+   },
+   {
+      "frequency": 1,
+      "element": "fonder mars"
+   },
+   {
+      "frequency": 1,
+      "element": "mars"
+   },
+   {
+      "frequency": 1,
+      "element": "contrer intolérancepromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "contrer intolérancepromouvoir échanger"
+   },
+   {
+      "frequency": 1,
+      "element": "culturels"
+   },
+   {
+      "frequency": 1,
+      "element": "inter"
+   },
+   {
+      "frequency": 1,
+      "element": "inter culturels"
+   },
+   {
+      "frequency": 1,
+      "element": "intolérancepromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "intolérancepromouvoir échanger"
+   },
+   {
+      "frequency": 1,
+      "element": "intolérancepromouvoir échanger inter"
+   },
+   {
+      "frequency": 1,
+      "element": "lutter contrer intolérancepromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "échanger"
+   },
+   {
+      "frequency": 1,
+      "element": "échanger inter"
+   },
+   {
+      "frequency": 1,
+      "element": "échanger inter culturels"
+   },
+   {
+      "frequency": 1,
+      "element": "amateur champignon"
+   },
+   {
+      "frequency": 1,
+      "element": "amateur champignon région"
+   },
+   {
+      "frequency": 1,
+      "element": "champignon"
+   },
+   {
+      "frequency": 1,
+      "element": "champignon région"
+   },
+   {
+      "frequency": 1,
+      "element": "chercheur histoire"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune chercheur"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune chercheur histoire"
+   },
+   {
+      "frequency": 1,
+      "element": "chercheur activité"
+   },
+   {
+      "frequency": 1,
+      "element": "commercial"
+   },
+   {
+      "frequency": 1,
+      "element": "industriel commercial"
+   },
+   {
+      "frequency": 1,
+      "element": "société"
+   },
+   {
+      "frequency": 1,
+      "element": "société industriel"
+   },
+   {
+      "frequency": 1,
+      "element": "société industriel commercial"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien enfant"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien enfant troupe"
+   },
+   {
+      "frequency": 1,
+      "element": "enfant troupe"
+   },
+   {
+      "frequency": 1,
+      "element": "troupe"
+   },
+   {
+      "frequency": 1,
+      "element": "chirurgien"
+   },
+   {
+      "frequency": 1,
+      "element": "chirurgien oncologue"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune chirurgien"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune chirurgien oncologue"
+   },
+   {
+      "frequency": 1,
+      "element": "oncologue"
+   },
+   {
+      "frequency": 1,
+      "element": "gestionnaire"
+   },
+   {
+      "frequency": 1,
+      "element": "national gestionnaire"
+   },
+   {
+      "frequency": 1,
+      "element": "artisan bâtiment"
+   },
+   {
+      "frequency": 1,
+      "element": "entreprise artisan"
+   },
+   {
+      "frequency": 1,
+      "element": "entreprise artisan bâtiment"
+   },
+   {
+      "frequency": 1,
+      "element": "cinéma ouest"
+   },
+   {
+      "frequency": 1,
+      "element": "cinéma ouest rechercher"
+   },
+   {
+      "frequency": 1,
+      "element": "ouest rechercher"
+   },
+   {
+      "frequency": 1,
+      "element": "rechercher"
+   },
+   {
+      "frequency": 1,
+      "element": "lyonnais"
+   },
+   {
+      "frequency": 1,
+      "element": "lyonnais histoire"
+   },
+   {
+      "frequency": 1,
+      "element": "étudiant lyonnais"
+   },
+   {
+      "frequency": 1,
+      "element": "étudiant lyonnais histoire"
+   },
+   {
+      "frequency": 1,
+      "element": "ami enfance"
+   },
+   {
+      "frequency": 1,
+      "element": "ami enfance inadapté"
+   },
+   {
+      "frequency": 1,
+      "element": "enfance"
+   },
+   {
+      "frequency": 1,
+      "element": "enfance inadapté"
+   },
+   {
+      "frequency": 1,
+      "element": "inadapté"
+   },
+   {
+      "frequency": 1,
+      "element": "parent ami"
+   },
+   {
+      "frequency": 1,
+      "element": "parent ami enfance"
+   },
+   {
+      "frequency": 1,
+      "element": "militaire entrepreneur"
+   },
+   {
+      "frequency": 1,
+      "element": "linas"
+   },
+   {
+      "frequency": 1,
+      "element": "ville"
+   },
+   {
+      "frequency": 1,
+      "element": "ville linas"
+   },
+   {
+      "frequency": 1,
+      "element": "cavalier nord"
+   },
+   {
+      "frequency": 1,
+      "element": "cavalier nord ouest"
+   },
+   {
+      "frequency": 1,
+      "element": "nord ouest"
+   },
+   {
+      "frequency": 1,
+      "element": "grêler"
+   },
+   {
+      "frequency": 1,
+      "element": "lutter prévention"
+   },
+   {
+      "frequency": 1,
+      "element": "lutter prévention grêler"
+   },
+   {
+      "frequency": 1,
+      "element": "prévention grêler"
+   },
+   {
+      "frequency": 1,
+      "element": "national parent"
+   },
+   {
+      "frequency": 1,
+      "element": "descente"
+   },
+   {
+      "frequency": 1,
+      "element": "sport descente"
+   },
+   {
+      "frequency": 1,
+      "element": "barragesdu"
+   },
+   {
+      "frequency": 1,
+      "element": "barragesdu karst"
+   },
+   {
+      "frequency": 1,
+      "element": "barragesdu karst lalocale"
+   },
+   {
+      "frequency": 1,
+      "element": "irrigants"
+   },
+   {
+      "frequency": 1,
+      "element": "irrigants réalimentés"
+   },
+   {
+      "frequency": 1,
+      "element": "irrigants réalimentés barragesdu"
+   },
+   {
+      "frequency": 1,
+      "element": "karst"
+   },
+   {
+      "frequency": 1,
+      "element": "karst lalocale"
+   },
+   {
+      "frequency": 1,
+      "element": "karst lalocale départemental"
+   },
+   {
+      "frequency": 1,
+      "element": "lalocale"
+   },
+   {
+      "frequency": 1,
+      "element": "lalocale départemental"
+   },
+   {
+      "frequency": 1,
+      "element": "réalimentés"
+   },
+   {
+      "frequency": 1,
+      "element": "réalimentés barragesdu"
+   },
+   {
+      "frequency": 1,
+      "element": "réalimentés barragesdu karst"
+   },
+   {
+      "frequency": 1,
+      "element": "auvergne"
+   },
+   {
+      "frequency": 1,
+      "element": "naturaliste"
+   },
+   {
+      "frequency": 1,
+      "element": "naturaliste auvergne"
+   },
+   {
+      "frequency": 1,
+      "element": "interne psychiatrie"
+   },
+   {
+      "frequency": 1,
+      "element": "local"
+   },
+   {
+      "frequency": 1,
+      "element": "local interne"
+   },
+   {
+      "frequency": 1,
+      "element": "local interne psychiatrie"
+   },
+   {
+      "frequency": 1,
+      "element": "psychiatrie"
+   },
+   {
+      "frequency": 1,
+      "element": "anesthésiste"
+   },
+   {
+      "frequency": 1,
+      "element": "anesthésiste réanimateurs"
+   },
+   {
+      "frequency": 1,
+      "element": "anesthésiste réanimateurs pédiatrique"
+   },
+   {
+      "frequency": 1,
+      "element": "pédiatrique"
+   },
+   {
+      "frequency": 1,
+      "element": "réanimateurs"
+   },
+   {
+      "frequency": 1,
+      "element": "réanimateurs pédiatrique"
+   },
+   {
+      "frequency": 1,
+      "element": "national gestion"
+   },
+   {
+      "frequency": 1,
+      "element": "parent ecole"
+   },
+   {
+      "frequency": 1,
+      "element": "français rhinologie"
+   },
+   {
+      "frequency": 1,
+      "element": "rhinologie"
+   },
+   {
+      "frequency": 1,
+      "element": "censurer"
+   },
+   {
+      "frequency": 1,
+      "element": "circulationlutte"
+   },
+   {
+      "frequency": 1,
+      "element": "circulationlutte contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "circulationlutte contrer toute"
+   },
+   {
+      "frequency": 1,
+      "element": "contrer toute"
+   },
+   {
+      "frequency": 1,
+      "element": "contrer toute former"
+   },
+   {
+      "frequency": 1,
+      "element": "former"
+   },
+   {
+      "frequency": 1,
+      "element": "former censurer"
+   },
+   {
+      "frequency": 1,
+      "element": "libre"
+   },
+   {
+      "frequency": 1,
+      "element": "libre circulationlutte"
+   },
+   {
+      "frequency": 1,
+      "element": "libre circulationlutte contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion libre"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion libre circulationlutte"
+   },
+   {
+      "frequency": 1,
+      "element": "toute former"
+   },
+   {
+      "frequency": 1,
+      "element": "toute former censurer"
+   },
+   {
+      "frequency": 1,
+      "element": "cadrer"
+   },
+   {
+      "frequency": 1,
+      "element": "national cadrer"
+   },
+   {
+      "frequency": 1,
+      "element": "lac"
+   },
+   {
+      "frequency": 1,
+      "element": "résident"
+   },
+   {
+      "frequency": 1,
+      "element": "résident lac"
+   },
+   {
+      "frequency": 1,
+      "element": "aérodrome"
+   },
+   {
+      "frequency": 1,
+      "element": "défense aérodrome"
+   },
+   {
+      "frequency": 1,
+      "element": "usager"
+   },
+   {
+      "frequency": 1,
+      "element": "usager défense"
+   },
+   {
+      "frequency": 1,
+      "element": "usager défense aérodrome"
+   },
+   {
+      "frequency": 1,
+      "element": "equipes"
+   },
+   {
+      "frequency": 1,
+      "element": "equipes france"
+   },
+   {
+      "frequency": 1,
+      "element": "kinésithérapeute"
+   },
+   {
+      "frequency": 1,
+      "element": "kinésithérapeute equipes"
+   },
+   {
+      "frequency": 1,
+      "element": "kinésithérapeute equipes france"
+   },
+   {
+      "frequency": 1,
+      "element": "commune minier"
+   },
+   {
+      "frequency": 1,
+      "element": "commune minier france"
+   },
+   {
+      "frequency": 1,
+      "element": "minier"
+   },
+   {
+      "frequency": 1,
+      "element": "minier france"
+   },
+   {
+      "frequency": 1,
+      "element": "femme droit"
+   },
+   {
+      "frequency": 1,
+      "element": "officier"
+   },
+   {
+      "frequency": 1,
+      "element": "officier réserver"
+   },
+   {
+      "frequency": 1,
+      "element": "réserver"
+   },
+   {
+      "frequency": 1,
+      "element": "français trakehner"
+   },
+   {
+      "frequency": 1,
+      "element": "trakehner"
+   },
+   {
+      "frequency": 1,
+      "element": "général lille"
+   },
+   {
+      "frequency": 1,
+      "element": "interne médecine"
+   },
+   {
+      "frequency": 1,
+      "element": "interne médecine général"
+   },
+   {
+      "frequency": 1,
+      "element": "lille"
+   },
+   {
+      "frequency": 1,
+      "element": "médecine général"
+   },
+   {
+      "frequency": 1,
+      "element": "médecine général lille"
+   },
+   {
+      "frequency": 1,
+      "element": "diplômer enseirb"
+   },
+   {
+      "frequency": 1,
+      "element": "enseirb"
+   },
+   {
+      "frequency": 1,
+      "element": "ingénieur diplômer"
+   },
+   {
+      "frequency": 1,
+      "element": "ingénieur diplômer enseirb"
+   },
+   {
+      "frequency": 1,
+      "element": "national malade"
+   },
+   {
+      "frequency": 1,
+      "element": "bénévole"
+   },
+   {
+      "frequency": 1,
+      "element": "bénévole oeuvrer"
+   },
+   {
+      "frequency": 1,
+      "element": "bénévole oeuvrer dan"
+   },
+   {
+      "frequency": 1,
+      "element": "dan département"
+   },
+   {
+      "frequency": 1,
+      "element": "oeuvrer dan"
+   },
+   {
+      "frequency": 1,
+      "element": "oeuvrer dan département"
+   },
+   {
+      "frequency": 1,
+      "element": "patient bénévole"
+   },
+   {
+      "frequency": 1,
+      "element": "patient bénévole oeuvrer"
+   },
+   {
+      "frequency": 1,
+      "element": "femmesnationale"
+   },
+   {
+      "frequency": 1,
+      "element": "femmesnationale sage"
+   },
+   {
+      "frequency": 1,
+      "element": "femmesnationale sage femme"
+   },
+   {
+      "frequency": 1,
+      "element": "national sage"
+   },
+   {
+      "frequency": 1,
+      "element": "national sage femmesnationale"
+   },
+   {
+      "frequency": 1,
+      "element": "sage femme"
+   },
+   {
+      "frequency": 1,
+      "element": "sage femmesnationale"
+   },
+   {
+      "frequency": 1,
+      "element": "sage femmesnationale sage"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune naturiste"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune naturiste france"
+   },
+   {
+      "frequency": 1,
+      "element": "naturiste"
+   },
+   {
+      "frequency": 1,
+      "element": "naturiste france"
+   },
+   {
+      "frequency": 1,
+      "element": "fêter"
+   },
+   {
+      "frequency": 1,
+      "element": "blanc"
+   },
+   {
+      "frequency": 1,
+      "element": "croix"
+   },
+   {
+      "frequency": 1,
+      "element": "croix blanc"
+   },
+   {
+      "frequency": 1,
+      "element": "français croix"
+   },
+   {
+      "frequency": 1,
+      "element": "français croix blanc"
+   },
+   {
+      "frequency": 1,
+      "element": "secouriste"
+   },
+   {
+      "frequency": 1,
+      "element": "secouriste français"
+   },
+   {
+      "frequency": 1,
+      "element": "secouriste français croix"
+   },
+   {
+      "frequency": 1,
+      "element": "atelier"
+   },
+   {
+      "frequency": 1,
+      "element": "professeur français"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune magistrat"
+   },
+   {
+      "frequency": 1,
+      "element": "magistrat"
+   },
+   {
+      "frequency": 1,
+      "element": "aviateur"
+   },
+   {
+      "frequency": 1,
+      "element": "sauveteur"
+   },
+   {
+      "frequency": 1,
+      "element": "sauveteur aviateur"
+   },
+   {
+      "frequency": 1,
+      "element": "nationale"
+   },
+   {
+      "frequency": 1,
+      "element": "nationale psychiatre"
+   },
+   {
+      "frequency": 1,
+      "element": "psychiatre"
+   },
+   {
+      "frequency": 1,
+      "element": "coureur fondre"
+   },
+   {
+      "frequency": 1,
+      "element": "fondre"
+   },
+   {
+      "frequency": 1,
+      "element": "français prévention"
+   },
+   {
+      "frequency": 1,
+      "element": "médecin français"
+   },
+   {
+      "frequency": 1,
+      "element": "médecin français prévention"
+   },
+   {
+      "frequency": 1,
+      "element": "maire rural"
+   },
+   {
+      "frequency": 1,
+      "element": "maire rural france"
+   },
+   {
+      "frequency": 1,
+      "element": "rural"
+   },
+   {
+      "frequency": 1,
+      "element": "rural france"
+   },
+   {
+      "frequency": 1,
+      "element": "employer"
+   },
+   {
+      "frequency": 1,
+      "element": "lutter employer"
+   },
+   {
+      "frequency": 1,
+      "element": "zoologique"
+   },
+   {
+      "frequency": 1,
+      "element": "zoologique suisse"
+   },
+   {
+      "frequency": 1,
+      "element": "établissement"
+   },
+   {
+      "frequency": 1,
+      "element": "établissement zoologique"
+   },
+   {
+      "frequency": 1,
+      "element": "établissement zoologique suisse"
+   },
+   {
+      "frequency": 1,
+      "element": "administrateur"
+   },
+   {
+      "frequency": 1,
+      "element": "professionnel droit"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien etudiants droit"
+   },
+   {
+      "frequency": 1,
+      "element": "droit internationalrégie"
+   },
+   {
+      "frequency": 1,
+      "element": "droit internationalrégie loi"
+   },
+   {
+      "frequency": 1,
+      "element": "etudiants droit"
+   },
+   {
+      "frequency": 1,
+      "element": "etudiants droit internationalrégie"
+   },
+   {
+      "frequency": 1,
+      "element": "internationalrégie"
+   },
+   {
+      "frequency": 1,
+      "element": "internationalrégie loi"
+   },
+   {
+      "frequency": 1,
+      "element": "loi"
+   },
+   {
+      "frequency": 1,
+      "element": "fruit"
+   },
+   {
+      "frequency": 1,
+      "element": "national transformateur"
+   },
+   {
+      "frequency": 1,
+      "element": "national transformateur fruit"
+   },
+   {
+      "frequency": 1,
+      "element": "transformateur"
+   },
+   {
+      "frequency": 1,
+      "element": "transformateur fruit"
+   },
+   {
+      "frequency": 1,
+      "element": "ingénieur mécanique"
+   },
+   {
+      "frequency": 1,
+      "element": "mécanique"
+   },
+   {
+      "frequency": 1,
+      "element": "avocat fiscaliste"
+   },
+   {
+      "frequency": 1,
+      "element": "fiscaliste"
+   },
+   {
+      "frequency": 1,
+      "element": "journaliste technique"
+   },
+   {
+      "frequency": 1,
+      "element": "ccedis"
+   },
+   {
+      "frequency": 1,
+      "element": "ccedis engager"
+   },
+   {
+      "frequency": 1,
+      "element": "commissaire enquêteursdépartementales"
+   },
+   {
+      "frequency": 1,
+      "element": "commissaire enquêteursdépartementales sein"
+   },
+   {
+      "frequency": 1,
+      "element": "commissairesdes"
+   },
+   {
+      "frequency": 1,
+      "element": "commissairesdes commissaire"
+   },
+   {
+      "frequency": 1,
+      "element": "commissairesdes commissaire enquêteursdépartementales"
+   },
+   {
+      "frequency": 1,
+      "element": "conseilcomposant"
+   },
+   {
+      "frequency": 1,
+      "element": "conseilcomposant ccedis"
+   },
+   {
+      "frequency": 1,
+      "element": "conseilcomposant ccedis engager"
+   },
+   {
+      "frequency": 1,
+      "element": "départementale"
+   },
+   {
+      "frequency": 1,
+      "element": "départementale commissairesdes"
+   },
+   {
+      "frequency": 1,
+      "element": "départementale commissairesdes commissaire"
+   },
+   {
+      "frequency": 1,
+      "element": "engager"
+   },
+   {
+      "frequency": 1,
+      "element": "enquêteursdépartementales"
+   },
+   {
+      "frequency": 1,
+      "element": "enquêteursdépartementales sein"
+   },
+   {
+      "frequency": 1,
+      "element": "enquêteursdépartementales sein conseilcomposant"
+   },
+   {
+      "frequency": 1,
+      "element": "sein"
+   },
+   {
+      "frequency": 1,
+      "element": "sein conseilcomposant"
+   },
+   {
+      "frequency": 1,
+      "element": "sein conseilcomposant ccedis"
+   },
+   {
+      "frequency": 1,
+      "element": "amateur art"
+   },
+   {
+      "frequency": 1,
+      "element": "action"
+   },
+   {
+      "frequency": 1,
+      "element": "santé"
+   },
+   {
+      "frequency": 1,
+      "element": "santé action"
+   },
+   {
+      "frequency": 1,
+      "element": "domaine"
+   },
+   {
+      "frequency": 1,
+      "element": "propriétaire domaine"
+   },
+   {
+      "frequency": 1,
+      "element": "main"
+   },
+   {
+      "frequency": 1,
+      "element": "main tenduede"
+   },
+   {
+      "frequency": 1,
+      "element": "main tenduede soutien"
+   },
+   {
+      "frequency": 1,
+      "element": "soutien"
+   },
+   {
+      "frequency": 1,
+      "element": "soutien famille"
+   },
+   {
+      "frequency": 1,
+      "element": "tenduede"
+   },
+   {
+      "frequency": 1,
+      "element": "tenduede soutien"
+   },
+   {
+      "frequency": 1,
+      "element": "tenduede soutien famille"
+   },
+   {
+      "frequency": 1,
+      "element": "calorie"
+   },
+   {
+      "frequency": 1,
+      "element": "calorie vieluttez"
+   },
+   {
+      "frequency": 1,
+      "element": "calorie vieluttez contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "vieluttez"
+   },
+   {
+      "frequency": 1,
+      "element": "vieluttez contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "vieluttez contrer faim"
+   },
+   {
+      "frequency": 1,
+      "element": "classer préparatoire"
+   },
+   {
+      "frequency": 1,
+      "element": "physique"
+   },
+   {
+      "frequency": 1,
+      "element": "physique classer"
+   },
+   {
+      "frequency": 1,
+      "element": "physique classer préparatoire"
+   },
+   {
+      "frequency": 1,
+      "element": "professeur science physique"
+   },
+   {
+      "frequency": 1,
+      "element": "préparatoire"
+   },
+   {
+      "frequency": 1,
+      "element": "science physique"
+   },
+   {
+      "frequency": 1,
+      "element": "science physique classer"
+   },
+   {
+      "frequency": 1,
+      "element": "gravier"
+   },
+   {
+      "frequency": 1,
+      "element": "importateur"
+   },
+   {
+      "frequency": 1,
+      "element": "importateur gravier"
+   },
+   {
+      "frequency": 1,
+      "element": "collectionneur"
+   },
+   {
+      "frequency": 1,
+      "element": "français collectionneur"
+   },
+   {
+      "frequency": 1,
+      "element": "conduit"
+   },
+   {
+      "frequency": 1,
+      "element": "école conduit"
+   },
+   {
+      "frequency": 1,
+      "element": "avoir objet"
+   },
+   {
+      "frequency": 1,
+      "element": "avoir objet préservation"
+   },
+   {
+      "frequency": 1,
+      "element": "objet"
+   },
+   {
+      "frequency": 1,
+      "element": "objet préservation"
+   },
+   {
+      "frequency": 1,
+      "element": "préservation"
+   },
+   {
+      "frequency": 1,
+      "element": "famille messier"
+   },
+   {
+      "frequency": 1,
+      "element": "messier"
+   },
+   {
+      "frequency": 1,
+      "element": "centrer social"
+   },
+   {
+      "frequency": 1,
+      "element": "centrer social oullins"
+   },
+   {
+      "frequency": 1,
+      "element": "oullins"
+   },
+   {
+      "frequency": 1,
+      "element": "social"
+   },
+   {
+      "frequency": 1,
+      "element": "social oullins"
+   },
+   {
+      "frequency": 1,
+      "element": "consultant"
+   },
+   {
+      "frequency": 1,
+      "element": "consultant lactation"
+   },
+   {
+      "frequency": 1,
+      "element": "français consultant"
+   },
+   {
+      "frequency": 1,
+      "element": "français consultant lactation"
+   },
+   {
+      "frequency": 1,
+      "element": "lactation"
+   },
+   {
+      "frequency": 1,
+      "element": "français malade syndromenationale"
+   },
+   {
+      "frequency": 1,
+      "element": "malade onde"
+   },
+   {
+      "frequency": 1,
+      "element": "malade onde électromagnétique"
+   },
+   {
+      "frequency": 1,
+      "element": "malade syndromenationale"
+   },
+   {
+      "frequency": 1,
+      "element": "malade syndromenationale malade"
+   },
+   {
+      "frequency": 1,
+      "element": "onde"
+   },
+   {
+      "frequency": 1,
+      "element": "onde électromagnétique"
+   },
+   {
+      "frequency": 1,
+      "element": "syndromenationale"
+   },
+   {
+      "frequency": 1,
+      "element": "syndromenationale malade"
+   },
+   {
+      "frequency": 1,
+      "element": "syndromenationale malade onde"
+   },
+   {
+      "frequency": 1,
+      "element": "électromagnétique"
+   },
+   {
+      "frequency": 1,
+      "element": "diabète"
+   },
+   {
+      "frequency": 1,
+      "element": "français diabète"
+   },
+   {
+      "frequency": 1,
+      "element": "maître philippe"
+   },
+   {
+      "frequency": 1,
+      "element": "maître philippe être"
+   },
+   {
+      "frequency": 1,
+      "element": "philippe"
+   },
+   {
+      "frequency": 1,
+      "element": "philippe être"
+   },
+   {
+      "frequency": 1,
+      "element": "philippe être association"
+   },
+   {
+      "frequency": 1,
+      "element": "animal compagnieprofessionnelle"
+   },
+   {
+      "frequency": 1,
+      "element": "animal compagnieprofessionnelle formation"
+   },
+   {
+      "frequency": 1,
+      "element": "compagnieprofessionnelle"
+   },
+   {
+      "frequency": 1,
+      "element": "compagnieprofessionnelle formation"
+   },
+   {
+      "frequency": 1,
+      "element": "compagnieprofessionnelle formation continuer"
+   },
+   {
+      "frequency": 1,
+      "element": "continuer"
+   },
+   {
+      "frequency": 1,
+      "element": "formation continuer"
+   },
+   {
+      "frequency": 1,
+      "element": "français vétérinaire"
+   },
+   {
+      "frequency": 1,
+      "element": "français vétérinaire animal"
+   },
+   {
+      "frequency": 1,
+      "element": "vétérinaire"
+   },
+   {
+      "frequency": 1,
+      "element": "vétérinaire animal"
+   },
+   {
+      "frequency": 1,
+      "element": "vétérinaire animal compagnieprofessionnelle"
+   },
+   {
+      "frequency": 1,
+      "element": "créateur"
+   },
+   {
+      "frequency": 1,
+      "element": "créateur fabricant"
+   },
+   {
+      "frequency": 1,
+      "element": "créateur fabricant jouet"
+   },
+   {
+      "frequency": 1,
+      "element": "fabricant"
+   },
+   {
+      "frequency": 1,
+      "element": "fabricant jouet"
+   },
+   {
+      "frequency": 1,
+      "element": "jouet"
+   },
+   {
+      "frequency": 1,
+      "element": "principal"
+   },
+   {
+      "frequency": 1,
+      "element": "principal producteur"
+   },
+   {
+      "frequency": 1,
+      "element": "commercer"
+   },
+   {
+      "frequency": 1,
+      "element": "commercer international"
+   },
+   {
+      "frequency": 1,
+      "element": "français spécialiste"
+   },
+   {
+      "frequency": 1,
+      "element": "français spécialiste commercer"
+   },
+   {
+      "frequency": 1,
+      "element": "spécialiste"
+   },
+   {
+      "frequency": 1,
+      "element": "spécialiste commercer"
+   },
+   {
+      "frequency": 1,
+      "element": "spécialiste commercer international"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien lycée"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion culture"
+   },
+   {
+      "frequency": 1,
+      "element": "national formation"
+   },
+   {
+      "frequency": 1,
+      "element": "amateur orchidée"
+   },
+   {
+      "frequency": 1,
+      "element": "orchidée"
+   },
+   {
+      "frequency": 1,
+      "element": "culture chinois"
+   },
+   {
+      "frequency": 1,
+      "element": "oeuvrer représentationpromotion"
+   },
+   {
+      "frequency": 1,
+      "element": "oeuvrer représentationpromotion culture"
+   },
+   {
+      "frequency": 1,
+      "element": "représentationpromotion"
+   },
+   {
+      "frequency": 1,
+      "element": "représentationpromotion culture"
+   },
+   {
+      "frequency": 1,
+      "element": "représentationpromotion culture chinois"
+   },
+   {
+      "frequency": 1,
+      "element": "charger"
+   },
+   {
+      "frequency": 1,
+      "element": "président"
+   },
+   {
+      "frequency": 1,
+      "element": "président charger"
+   },
+   {
+      "frequency": 1,
+      "element": "vice"
+   },
+   {
+      "frequency": 1,
+      "element": "vice président"
+   },
+   {
+      "frequency": 1,
+      "element": "vice président charger"
+   },
+   {
+      "frequency": 1,
+      "element": "bienfaisance"
+   },
+   {
+      "frequency": 1,
+      "element": "projet bienfaisance"
+   },
+   {
+      "frequency": 1,
+      "element": "amélioration"
+   },
+   {
+      "frequency": 1,
+      "element": "national amélioration"
+   },
+   {
+      "frequency": 1,
+      "element": "famille quart"
+   },
+   {
+      "frequency": 1,
+      "element": "famille quart monde"
+   },
+   {
+      "frequency": 1,
+      "element": "monde"
+   },
+   {
+      "frequency": 1,
+      "element": "quart"
+   },
+   {
+      "frequency": 1,
+      "element": "quart monde"
+   },
+   {
+      "frequency": 1,
+      "element": "immobilier"
+   },
+   {
+      "frequency": 1,
+      "element": "immobilier centrer"
+   },
+   {
+      "frequency": 1,
+      "element": "propriétaire immobilier"
+   },
+   {
+      "frequency": 1,
+      "element": "propriétaire immobilier centrer"
+   },
+   {
+      "frequency": 1,
+      "element": "français intermédiaire"
+   },
+   {
+      "frequency": 1,
+      "element": "intermédiaire"
+   },
+   {
+      "frequency": 1,
+      "element": "national étudiant"
+   },
+   {
+      "frequency": 1,
+      "element": "guérisseur"
+   },
+   {
+      "frequency": 1,
+      "element": "ecoles"
+   },
+   {
+      "frequency": 1,
+      "element": "brasseur"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien joueur"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien joueur rugby"
+   },
+   {
+      "frequency": 1,
+      "element": "joueur"
+   },
+   {
+      "frequency": 1,
+      "element": "joueur rugby"
+   },
+   {
+      "frequency": 1,
+      "element": "administration"
+   },
+   {
+      "frequency": 1,
+      "element": "doctorat"
+   },
+   {
+      "frequency": 1,
+      "element": "doctorat administration"
+   },
+   {
+      "frequency": 1,
+      "element": "étudiant doctorat"
+   },
+   {
+      "frequency": 1,
+      "element": "étudiant doctorat administration"
+   },
+   {
+      "frequency": 1,
+      "element": "directeur général"
+   },
+   {
+      "frequency": 1,
+      "element": "directeur général municipalité"
+   },
+   {
+      "frequency": 1,
+      "element": "général municipalité"
+   },
+   {
+      "frequency": 1,
+      "element": "municipalité"
+   },
+   {
+      "frequency": 1,
+      "element": "gestion projet"
+   },
+   {
+      "frequency": 1,
+      "element": "professionnel gestion"
+   },
+   {
+      "frequency": 1,
+      "element": "professionnel gestion projet"
+   },
+   {
+      "frequency": 1,
+      "element": "assureur"
+   },
+   {
+      "frequency": 1,
+      "element": "assureur mutualiste"
+   },
+   {
+      "frequency": 1,
+      "element": "assureur mutualiste né"
+   },
+   {
+      "frequency": 1,
+      "element": "mutualiste"
+   },
+   {
+      "frequency": 1,
+      "element": "mutualiste né"
+   },
+   {
+      "frequency": 1,
+      "element": "mutualiste né volonté"
+   },
+   {
+      "frequency": 1,
+      "element": "né"
+   },
+   {
+      "frequency": 1,
+      "element": "né volonté"
+   },
+   {
+      "frequency": 1,
+      "element": "volonté"
+   },
+   {
+      "frequency": 1,
+      "element": "biologiste"
+   },
+   {
+      "frequency": 1,
+      "element": "école hôtelier"
+   },
+   {
+      "frequency": 1,
+      "element": "élever école hôtelier"
+   },
+   {
+      "frequency": 1,
+      "element": "hebdomadaire"
+   },
+   {
+      "frequency": 1,
+      "element": "hebdomadaire information"
+   },
+   {
+      "frequency": 1,
+      "element": "presser"
+   },
+   {
+      "frequency": 1,
+      "element": "presser hebdomadaire"
+   },
+   {
+      "frequency": 1,
+      "element": "presser hebdomadaire information"
+   },
+   {
+      "frequency": 1,
+      "element": "emploi"
+   },
+   {
+      "frequency": 1,
+      "element": "service suisse"
+   },
+   {
+      "frequency": 1,
+      "element": "service suisse emploi"
+   },
+   {
+      "frequency": 1,
+      "element": "suisse emploi"
+   },
+   {
+      "frequency": 1,
+      "element": "avoir butpromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "avoir butpromouvoir développement"
+   },
+   {
+      "frequency": 1,
+      "element": "butpromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "butpromouvoir développement"
+   },
+   {
+      "frequency": 1,
+      "element": "jeu"
+   },
+   {
+      "frequency": 1,
+      "element": "courir"
+   },
+   {
+      "frequency": 1,
+      "element": "courir soir"
+   },
+   {
+      "frequency": 1,
+      "element": "proposer"
+   },
+   {
+      "frequency": 1,
+      "element": "proposer courir"
+   },
+   {
+      "frequency": 1,
+      "element": "proposer courir soir"
+   },
+   {
+      "frequency": 1,
+      "element": "soir"
+   },
+   {
+      "frequency": 1,
+      "element": "taxi"
+   },
+   {
+      "frequency": 1,
+      "element": "berlioz"
+   },
+   {
+      "frequency": 1,
+      "element": "hector"
+   },
+   {
+      "frequency": 1,
+      "element": "hector berlioz"
+   },
+   {
+      "frequency": 1,
+      "element": "national hector"
+   },
+   {
+      "frequency": 1,
+      "element": "national hector berlioz"
+   },
+   {
+      "frequency": 1,
+      "element": "intérêt"
+   },
+   {
+      "frequency": 1,
+      "element": "intérêt quartier"
+   },
+   {
+      "frequency": 1,
+      "element": "auto"
+   },
+   {
+      "frequency": 1,
+      "element": "auto moto"
+   },
+   {
+      "frequency": 1,
+      "element": "auto moto france"
+   },
+   {
+      "frequency": 1,
+      "element": "moto"
+   },
+   {
+      "frequency": 1,
+      "element": "moto france"
+   },
+   {
+      "frequency": 1,
+      "element": "média auto"
+   },
+   {
+      "frequency": 1,
+      "element": "média auto moto"
+   },
+   {
+      "frequency": 1,
+      "element": "estrie"
+   },
+   {
+      "frequency": 1,
+      "element": "handicaper"
+   },
+   {
+      "frequency": 1,
+      "element": "handicaper visuel"
+   },
+   {
+      "frequency": 1,
+      "element": "handicaper visuel estrie"
+   },
+   {
+      "frequency": 1,
+      "element": "personne handicaper"
+   },
+   {
+      "frequency": 1,
+      "element": "personne handicaper visuel"
+   },
+   {
+      "frequency": 1,
+      "element": "visuel"
+   },
+   {
+      "frequency": 1,
+      "element": "visuel estrie"
+   },
+   {
+      "frequency": 1,
+      "element": "affairer professionnel"
+   },
+   {
+      "frequency": 1,
+      "element": "gens affairer professionnel"
+   },
+   {
+      "frequency": 1,
+      "element": "national turfiste"
+   },
+   {
+      "frequency": 1,
+      "element": "turfiste"
+   },
+   {
+      "frequency": 1,
+      "element": "commerçant côtier"
+   },
+   {
+      "frequency": 1,
+      "element": "côtier"
+   },
+   {
+      "frequency": 1,
+      "element": "industriel commerçant"
+   },
+   {
+      "frequency": 1,
+      "element": "industriel commerçant côtier"
+   },
+   {
+      "frequency": 1,
+      "element": "cheval couleur"
+   },
+   {
+      "frequency": 1,
+      "element": "couleur"
+   },
+   {
+      "frequency": 1,
+      "element": "français cheval couleur"
+   },
+   {
+      "frequency": 1,
+      "element": "ami jardin"
+   },
+   {
+      "frequency": 1,
+      "element": "ami jardin jardin"
+   },
+   {
+      "frequency": 1,
+      "element": "botanique"
+   },
+   {
+      "frequency": 1,
+      "element": "jardin botanique"
+   },
+   {
+      "frequency": 1,
+      "element": "jardin jardin"
+   },
+   {
+      "frequency": 1,
+      "element": "jardin jardin botanique"
+   },
+   {
+      "frequency": 1,
+      "element": "elancourt"
+   },
+   {
+      "frequency": 1,
+      "element": "musulman elancourt"
+   },
+   {
+      "frequency": 1,
+      "element": "français femme"
+   },
+   {
+      "frequency": 1,
+      "element": "eleves"
+   },
+   {
+      "frequency": 1,
+      "element": "parent eleves"
+   },
+   {
+      "frequency": 1,
+      "element": "étudiant droit"
+   },
+   {
+      "frequency": 1,
+      "element": "généraliste libéral"
+   },
+   {
+      "frequency": 1,
+      "element": "généraliste libéral wilaya"
+   },
+   {
+      "frequency": 1,
+      "element": "libéral"
+   },
+   {
+      "frequency": 1,
+      "element": "libéral wilaya"
+   },
+   {
+      "frequency": 1,
+      "element": "médecin généraliste libéral"
+   },
+   {
+      "frequency": 1,
+      "element": "wilaya"
+   },
+   {
+      "frequency": 1,
+      "element": "piloter"
+   },
+   {
+      "frequency": 1,
+      "element": "piloter classer"
+   },
+   {
+      "frequency": 1,
+      "element": "coureur indre"
+   },
+   {
+      "frequency": 1,
+      "element": "indre"
+   },
+   {
+      "frequency": 1,
+      "element": "conception"
+   },
+   {
+      "frequency": 1,
+      "element": "français régler"
+   },
+   {
+      "frequency": 1,
+      "element": "français régler conception"
+   },
+   {
+      "frequency": 1,
+      "element": "régler"
+   },
+   {
+      "frequency": 1,
+      "element": "régler conception"
+   },
+   {
+      "frequency": 1,
+      "element": "paralyser"
+   },
+   {
+      "frequency": 1,
+      "element": "paralyser france"
+   },
+   {
+      "frequency": 1,
+      "element": "dyslexiques"
+   },
+   {
+      "frequency": 1,
+      "element": "dyslexiques euro"
+   },
+   {
+      "frequency": 1,
+      "element": "euro"
+   },
+   {
+      "frequency": 1,
+      "element": "jeunesse france"
+   },
+   {
+      "frequency": 1,
+      "element": "librairie"
+   },
+   {
+      "frequency": 1,
+      "element": "librairie spécialiser"
+   },
+   {
+      "frequency": 1,
+      "element": "librairie spécialiser jeunesse"
+   },
+   {
+      "frequency": 1,
+      "element": "spécialiser"
+   },
+   {
+      "frequency": 1,
+      "element": "spécialiser jeunesse"
+   },
+   {
+      "frequency": 1,
+      "element": "spécialiser jeunesse france"
+   },
+   {
+      "frequency": 1,
+      "element": "ensemble"
+   },
+   {
+      "frequency": 1,
+      "element": "essor"
+   },
+   {
+      "frequency": 1,
+      "element": "essor ensemble"
+   },
+   {
+      "frequency": 1,
+      "element": "français essor"
+   },
+   {
+      "frequency": 1,
+      "element": "français essor ensemble"
+   },
+   {
+      "frequency": 1,
+      "element": "commerçant piscinesà"
+   },
+   {
+      "frequency": 1,
+      "element": "commerçant piscinesà boire"
+   },
+   {
+      "frequency": 1,
+      "element": "piscinesà"
+   },
+   {
+      "frequency": 1,
+      "element": "piscinesà boire"
+   },
+   {
+      "frequency": 1,
+      "element": "piscinesà boire non"
+   },
+   {
+      "frequency": 1,
+      "element": "centrer hospitalier"
+   },
+   {
+      "frequency": 1,
+      "element": "hospitalier"
+   },
+   {
+      "frequency": 1,
+      "element": "national centrer"
+   },
+   {
+      "frequency": 1,
+      "element": "national centrer hospitalier"
+   },
+   {
+      "frequency": 1,
+      "element": "développement stomatologie"
+   },
+   {
+      "frequency": 1,
+      "element": "français développement"
+   },
+   {
+      "frequency": 1,
+      "element": "français développement stomatologie"
+   },
+   {
+      "frequency": 1,
+      "element": "stomatologie"
+   },
+   {
+      "frequency": 1,
+      "element": "kinés"
+   },
+   {
+      "frequency": 1,
+      "element": "kinés rugby"
+   },
+   {
+      "frequency": 1,
+      "element": "femme promotion"
+   },
+   {
+      "frequency": 1,
+      "element": "entreprise bâtiment"
+   },
+   {
+      "frequency": 1,
+      "element": "professionnel entreprise"
+   },
+   {
+      "frequency": 1,
+      "element": "professionnel entreprise bâtiment"
+   },
+   {
+      "frequency": 1,
+      "element": "agencer"
+   },
+   {
+      "frequency": 1,
+      "element": "agencer communication"
+   },
+   {
+      "frequency": 1,
+      "element": "communication"
+   },
+   {
+      "frequency": 1,
+      "element": "documentaliste"
+   },
+   {
+      "frequency": 1,
+      "element": "documentaliste enseignement"
+   },
+   {
+      "frequency": 1,
+      "element": "documentaliste enseignement priver"
+   },
+   {
+      "frequency": 1,
+      "element": "enseignement priver"
+   },
+   {
+      "frequency": 1,
+      "element": "enseignement priver nord"
+   },
+   {
+      "frequency": 1,
+      "element": "priver"
+   },
+   {
+      "frequency": 1,
+      "element": "priver nord"
+   },
+   {
+      "frequency": 1,
+      "element": "commune suisse"
+   },
+   {
+      "frequency": 1,
+      "element": "pluralité"
+   },
+   {
+      "frequency": 1,
+      "element": "promouvoir pluralité"
+   },
+   {
+      "frequency": 1,
+      "element": "italien"
+   },
+   {
+      "frequency": 1,
+      "element": "théâtre"
+   },
+   {
+      "frequency": 1,
+      "element": "théâtre italien"
+   },
+   {
+      "frequency": 1,
+      "element": "surf"
+   },
+   {
+      "frequency": 1,
+      "element": "école surf"
+   },
+   {
+      "frequency": 1,
+      "element": "journaliste professionnel"
+   },
+   {
+      "frequency": 1,
+      "element": "bibliothèque"
+   },
+   {
+      "frequency": 1,
+      "element": "bibliothèque fribourgeoises"
+   },
+   {
+      "frequency": 1,
+      "element": "bibliothèque fribourgeoises favoriser"
+   },
+   {
+      "frequency": 1,
+      "element": "coopération"
+   },
+   {
+      "frequency": 1,
+      "element": "favoriser"
+   },
+   {
+      "frequency": 1,
+      "element": "favoriser coopération"
+   },
+   {
+      "frequency": 1,
+      "element": "fribourgeoises"
+   },
+   {
+      "frequency": 1,
+      "element": "fribourgeoises favoriser"
+   },
+   {
+      "frequency": 1,
+      "element": "fribourgeoises favoriser coopération"
+   },
+   {
+      "frequency": 1,
+      "element": "education"
+   },
+   {
+      "frequency": 1,
+      "element": "jeunesse education"
+   },
+   {
+      "frequency": 1,
+      "element": "départemental parent"
+   },
+   {
+      "frequency": 1,
+      "element": "randonneur"
+   },
+   {
+      "frequency": 1,
+      "element": "gay"
+   },
+   {
+      "frequency": 1,
+      "element": "association parent"
+   },
+   {
+      "frequency": 1,
+      "element": "coquelicot"
+   },
+   {
+      "frequency": 1,
+      "element": "coquelicot être"
+   },
+   {
+      "frequency": 1,
+      "element": "coquelicot être association"
+   },
+   {
+      "frequency": 1,
+      "element": "être association parent"
+   },
+   {
+      "frequency": 1,
+      "element": "avoir boire"
+   },
+   {
+      "frequency": 1,
+      "element": "calvadospromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "calvadospromouvoir chien"
+   },
+   {
+      "frequency": 1,
+      "element": "calvadospromouvoir chien berger"
+   },
+   {
+      "frequency": 1,
+      "element": "chien berger"
+   },
+   {
+      "frequency": 1,
+      "element": "chien troupeau"
+   },
+   {
+      "frequency": 1,
+      "element": "chien troupeau calvadospromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "troupeau"
+   },
+   {
+      "frequency": 1,
+      "element": "troupeau calvadospromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "troupeau calvadospromouvoir chien"
+   },
+   {
+      "frequency": 1,
+      "element": "etudiants médecine"
+   },
+   {
+      "frequency": 1,
+      "element": "etudiants médecine france"
+   },
+   {
+      "frequency": 1,
+      "element": "médecine france"
+   },
+   {
+      "frequency": 1,
+      "element": "national etudiants"
+   },
+   {
+      "frequency": 1,
+      "element": "national etudiants médecine"
+   },
+   {
+      "frequency": 1,
+      "element": "saveur"
+   },
+   {
+      "frequency": 1,
+      "element": "accidenter"
+   },
+   {
+      "frequency": 1,
+      "element": "accidenter vie"
+   },
+   {
+      "frequency": 1,
+      "element": "vie"
+   },
+   {
+      "frequency": 1,
+      "element": "français hémiplégie"
+   },
+   {
+      "frequency": 1,
+      "element": "hémiplégie"
+   },
+   {
+      "frequency": 1,
+      "element": "aprilpromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "aprilpromouvoir tout"
+   },
+   {
+      "frequency": 1,
+      "element": "aprilpromouvoir tout typer"
+   },
+   {
+      "frequency": 1,
+      "element": "assurer"
+   },
+   {
+      "frequency": 1,
+      "element": "assurer aprilpromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "assurer aprilpromouvoir tout"
+   },
+   {
+      "frequency": 1,
+      "element": "tout"
+   },
+   {
+      "frequency": 1,
+      "element": "tout typer"
+   },
+   {
+      "frequency": 1,
+      "element": "typer"
+   },
+   {
+      "frequency": 1,
+      "element": "national travailleur"
+   },
+   {
+      "frequency": 1,
+      "element": "national travailleur réfrigération"
+   },
+   {
+      "frequency": 1,
+      "element": "réfrigération"
+   },
+   {
+      "frequency": 1,
+      "element": "travailleur"
+   },
+   {
+      "frequency": 1,
+      "element": "travailleur réfrigération"
+   },
+   {
+      "frequency": 1,
+      "element": "grain"
+   },
+   {
+      "frequency": 1,
+      "element": "grain sel"
+   },
+   {
+      "frequency": 1,
+      "element": "sel"
+   },
+   {
+      "frequency": 1,
+      "element": "français avocat"
+   },
+   {
+      "frequency": 1,
+      "element": "ami institut"
+   },
+   {
+      "frequency": 1,
+      "element": "institut"
+   },
+   {
+      "frequency": 1,
+      "element": "archetiers"
+   },
+   {
+      "frequency": 1,
+      "element": "archetiers développement"
+   },
+   {
+      "frequency": 1,
+      "element": "archetiers développement facturer"
+   },
+   {
+      "frequency": 1,
+      "element": "développement facturer"
+   },
+   {
+      "frequency": 1,
+      "element": "développement facturer instrumental"
+   },
+   {
+      "frequency": 1,
+      "element": "facturer"
+   },
+   {
+      "frequency": 1,
+      "element": "facturer instrumental"
+   },
+   {
+      "frequency": 1,
+      "element": "instrumental"
+   },
+   {
+      "frequency": 1,
+      "element": "luthier"
+   },
+   {
+      "frequency": 1,
+      "element": "luthier archetiers"
+   },
+   {
+      "frequency": 1,
+      "element": "luthier archetiers développement"
+   },
+   {
+      "frequency": 1,
+      "element": "certificateurs"
+   },
+   {
+      "frequency": 1,
+      "element": "organisme"
+   },
+   {
+      "frequency": 1,
+      "element": "organisme certificateurs"
+   },
+   {
+      "frequency": 1,
+      "element": "agent département"
+   },
+   {
+      "frequency": 1,
+      "element": "commerçant véhiculer"
+   },
+   {
+      "frequency": 1,
+      "element": "concourir"
+   },
+   {
+      "frequency": 1,
+      "element": "lauréat"
+   },
+   {
+      "frequency": 1,
+      "element": "lauréat concourir"
+   },
+   {
+      "frequency": 1,
+      "element": "optométristes"
+   },
+   {
+      "frequency": 1,
+      "element": "ami jean"
+   },
+   {
+      "frequency": 1,
+      "element": "jean"
+   },
+   {
+      "frequency": 1,
+      "element": "science information"
+   },
+   {
+      "frequency": 1,
+      "element": "étudiant science"
+   },
+   {
+      "frequency": 1,
+      "element": "étudiant science information"
+   },
+   {
+      "frequency": 1,
+      "element": "canadienne"
+   },
+   {
+      "frequency": 1,
+      "element": "canadienne pari"
+   },
+   {
+      "frequency": 1,
+      "element": "femme canadienne"
+   },
+   {
+      "frequency": 1,
+      "element": "femme canadienne pari"
+   },
+   {
+      "frequency": 1,
+      "element": "alsace"
+   },
+   {
+      "frequency": 1,
+      "element": "designer"
+   },
+   {
+      "frequency": 1,
+      "element": "designer alsace"
+   },
+   {
+      "frequency": 1,
+      "element": "chant"
+   },
+   {
+      "frequency": 1,
+      "element": "français professeur"
+   },
+   {
+      "frequency": 1,
+      "element": "français professeur chant"
+   },
+   {
+      "frequency": 1,
+      "element": "professeur chant"
+   },
+   {
+      "frequency": 1,
+      "element": "informer"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien élever lycée"
+   },
+   {
+      "frequency": 1,
+      "element": "élever lycée"
+   },
+   {
+      "frequency": 1,
+      "element": "corps"
+   },
+   {
+      "frequency": 1,
+      "element": "français corps"
+   },
+   {
+      "frequency": 1,
+      "element": "international lutter"
+   },
+   {
+      "frequency": 1,
+      "element": "international lutter contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "lutter contrer faim"
+   },
+   {
+      "frequency": 1,
+      "element": "solidarité"
+   },
+   {
+      "frequency": 1,
+      "element": "solidarité international"
+   },
+   {
+      "frequency": 1,
+      "element": "solidarité international lutter"
+   },
+   {
+      "frequency": 1,
+      "element": "ami hôpital"
+   },
+   {
+      "frequency": 1,
+      "element": "ami hôpital morges"
+   },
+   {
+      "frequency": 1,
+      "element": "hôpital"
+   },
+   {
+      "frequency": 1,
+      "element": "hôpital morges"
+   },
+   {
+      "frequency": 1,
+      "element": "morges"
+   },
+   {
+      "frequency": 1,
+      "element": "barber"
+   },
+   {
+      "frequency": 1,
+      "element": "cheval barber"
+   },
+   {
+      "frequency": 1,
+      "element": "français cheval barber"
+   },
+   {
+      "frequency": 1,
+      "element": "ami centrer"
+   },
+   {
+      "frequency": 1,
+      "element": "abattoirde"
+   },
+   {
+      "frequency": 1,
+      "element": "abattoirde cavalier"
+   },
+   {
+      "frequency": 1,
+      "element": "abattoirde cavalier indépendant"
+   },
+   {
+      "frequency": 1,
+      "element": "cavalier indépendant abattoirde"
+   },
+   {
+      "frequency": 1,
+      "element": "cavalier indépendant situer"
+   },
+   {
+      "frequency": 1,
+      "element": "dan pays"
+   },
+   {
+      "frequency": 1,
+      "element": "indépendant abattoirde"
+   },
+   {
+      "frequency": 1,
+      "element": "indépendant abattoirde cavalier"
+   },
+   {
+      "frequency": 1,
+      "element": "indépendant situer"
+   },
+   {
+      "frequency": 1,
+      "element": "indépendant situer dan"
+   },
+   {
+      "frequency": 1,
+      "element": "pays"
+   },
+   {
+      "frequency": 1,
+      "element": "situer"
+   },
+   {
+      "frequency": 1,
+      "element": "situer dan"
+   },
+   {
+      "frequency": 1,
+      "element": "situer dan pays"
+   },
+   {
+      "frequency": 1,
+      "element": "chrétien"
+   },
+   {
+      "frequency": 1,
+      "element": "chrétien vacance"
+   },
+   {
+      "frequency": 1,
+      "element": "vacance"
+   },
+   {
+      "frequency": 1,
+      "element": "national directeur"
+   },
+   {
+      "frequency": 1,
+      "element": "canada"
+   },
+   {
+      "frequency": 1,
+      "element": "cowboys"
+   },
+   {
+      "frequency": 1,
+      "element": "cowboys être"
+   },
+   {
+      "frequency": 1,
+      "element": "cowboys être canada"
+   },
+   {
+      "frequency": 1,
+      "element": "être canada"
+   },
+   {
+      "frequency": 1,
+      "element": "passionner simulation"
+   },
+   {
+      "frequency": 1,
+      "element": "simulation"
+   },
+   {
+      "frequency": 1,
+      "element": "enseignant"
+   },
+   {
+      "frequency": 1,
+      "element": "enseignant activité"
+   },
+   {
+      "frequency": 1,
+      "element": "national enseignant"
+   },
+   {
+      "frequency": 1,
+      "element": "national enseignant activité"
+   },
+   {
+      "frequency": 1,
+      "element": "diplômer iie"
+   },
+   {
+      "frequency": 1,
+      "element": "iie"
+   },
+   {
+      "frequency": 1,
+      "element": "bourg"
+   },
+   {
+      "frequency": 1,
+      "element": "bourg péage"
+   },
+   {
+      "frequency": 1,
+      "element": "entreprise roman"
+   },
+   {
+      "frequency": 1,
+      "element": "entreprise roman bourg"
+   },
+   {
+      "frequency": 1,
+      "element": "péage"
+   },
+   {
+      "frequency": 1,
+      "element": "roman"
+   },
+   {
+      "frequency": 1,
+      "element": "roman bourg"
+   },
+   {
+      "frequency": 1,
+      "element": "roman bourg péage"
+   },
+   {
+      "frequency": 1,
+      "element": "famille victime"
+   },
+   {
+      "frequency": 1,
+      "element": "catholique"
+   },
+   {
+      "frequency": 1,
+      "element": "média catholique"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien elèves"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien elèves ecole"
+   },
+   {
+      "frequency": 1,
+      "element": "ecole psychologue"
+   },
+   {
+      "frequency": 1,
+      "element": "elèves"
+   },
+   {
+      "frequency": 1,
+      "element": "elèves ecole"
+   },
+   {
+      "frequency": 1,
+      "element": "elèves ecole psychologue"
+   },
+   {
+      "frequency": 1,
+      "element": "psychologue"
+   },
+   {
+      "frequency": 1,
+      "element": "agir environnement"
+   },
+   {
+      "frequency": 1,
+      "element": "agir environnement estnationale"
+   },
+   {
+      "frequency": 1,
+      "element": "environnement"
+   },
+   {
+      "frequency": 1,
+      "element": "environnement estnationale"
+   },
+   {
+      "frequency": 1,
+      "element": "environnement estnationale mobilisation"
+   },
+   {
+      "frequency": 1,
+      "element": "estnationale"
+   },
+   {
+      "frequency": 1,
+      "element": "estnationale mobilisation"
+   },
+   {
+      "frequency": 1,
+      "element": "mobilisation"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion art"
+   },
+   {
+      "frequency": 1,
+      "element": "militaire reconstitution"
+   },
+   {
+      "frequency": 1,
+      "element": "reconstitution"
+   },
+   {
+      "frequency": 1,
+      "element": "véhiculer militaire"
+   },
+   {
+      "frequency": 1,
+      "element": "véhiculer militaire reconstitution"
+   },
+   {
+      "frequency": 1,
+      "element": "authentiquer"
+   },
+   {
+      "frequency": 1,
+      "element": "jazz"
+   },
+   {
+      "frequency": 1,
+      "element": "jazz authentiquer"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion jazz"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion jazz authentiquer"
+   },
+   {
+      "frequency": 1,
+      "element": "ambulancier"
+   },
+   {
+      "frequency": 1,
+      "element": "ambulancier france"
+   },
+   {
+      "frequency": 1,
+      "element": "enseignement technique"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion enseignement"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion enseignement technique"
+   },
+   {
+      "frequency": 1,
+      "element": "artistique"
+   },
+   {
+      "frequency": 1,
+      "element": "aveuglespromotion"
+   },
+   {
+      "frequency": 1,
+      "element": "aveuglespromotion qualité"
+   },
+   {
+      "frequency": 1,
+      "element": "aveuglespromotion qualité artistique"
+   },
+   {
+      "frequency": 1,
+      "element": "qualité artistique"
+   },
+   {
+      "frequency": 1,
+      "element": "manufacturier"
+   },
+   {
+      "frequency": 1,
+      "element": "manufacturier électronique"
+   },
+   {
+      "frequency": 1,
+      "element": "club voiturer"
+   },
+   {
+      "frequency": 1,
+      "element": "club voiturer ancien"
+   },
+   {
+      "frequency": 1,
+      "element": "voiturer"
+   },
+   {
+      "frequency": 1,
+      "element": "voiturer ancien"
+   },
+   {
+      "frequency": 1,
+      "element": "cheval sport"
+   },
+   {
+      "frequency": 1,
+      "element": "éleveur"
+   },
+   {
+      "frequency": 1,
+      "element": "éleveur cheval"
+   },
+   {
+      "frequency": 1,
+      "element": "éleveur cheval sport"
+   },
+   {
+      "frequency": 1,
+      "element": "ami spinoza"
+   },
+   {
+      "frequency": 1,
+      "element": "spinoza"
+   },
+   {
+      "frequency": 1,
+      "element": "français défense"
+   },
+   {
+      "frequency": 1,
+      "element": "aviation"
+   },
+   {
+      "frequency": 1,
+      "element": "navigant"
+   },
+   {
+      "frequency": 1,
+      "element": "navigant aviation"
+   },
+   {
+      "frequency": 1,
+      "element": "professionnel navigant"
+   },
+   {
+      "frequency": 1,
+      "element": "professionnel navigant aviation"
+   },
+   {
+      "frequency": 1,
+      "element": "magicien"
+   },
+   {
+      "frequency": 1,
+      "element": "ami muséeà"
+   },
+   {
+      "frequency": 1,
+      "element": "ami muséeà boire"
+   },
+   {
+      "frequency": 1,
+      "element": "muséeà"
+   },
+   {
+      "frequency": 1,
+      "element": "muséeà boire"
+   },
+   {
+      "frequency": 1,
+      "element": "muséeà boire non"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien saint"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion utilisation"
+   },
+   {
+      "frequency": 1,
+      "element": "promotion utilisation vélo"
+   },
+   {
+      "frequency": 1,
+      "element": "utilisation"
+   },
+   {
+      "frequency": 1,
+      "element": "utilisation vélo"
+   },
+   {
+      "frequency": 1,
+      "element": "vélo"
+   },
+   {
+      "frequency": 1,
+      "element": "chaux"
+   },
+   {
+      "frequency": 1,
+      "element": "pierre"
+   },
+   {
+      "frequency": 1,
+      "element": "pierre chaux"
+   },
+   {
+      "frequency": 1,
+      "element": "producteur pierre"
+   },
+   {
+      "frequency": 1,
+      "element": "producteur pierre chaux"
+   },
+   {
+      "frequency": 1,
+      "element": "avoir décider"
+   },
+   {
+      "frequency": 1,
+      "element": "avoir décider snationale"
+   },
+   {
+      "frequency": 1,
+      "element": "business"
+   },
+   {
+      "frequency": 1,
+      "element": "contrer football"
+   },
+   {
+      "frequency": 1,
+      "element": "contrer football business"
+   },
+   {
+      "frequency": 1,
+      "element": "décider"
+   },
+   {
+      "frequency": 1,
+      "element": "décider snationale"
+   },
+   {
+      "frequency": 1,
+      "element": "décider snationale supporterslutter"
+   },
+   {
+      "frequency": 1,
+      "element": "football"
+   },
+   {
+      "frequency": 1,
+      "element": "football business"
+   },
+   {
+      "frequency": 1,
+      "element": "snationale"
+   },
+   {
+      "frequency": 1,
+      "element": "snationale supporterslutter"
+   },
+   {
+      "frequency": 1,
+      "element": "snationale supporterslutter contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "supporter"
+   },
+   {
+      "frequency": 1,
+      "element": "supporter avoir"
+   },
+   {
+      "frequency": 1,
+      "element": "supporter avoir décider"
+   },
+   {
+      "frequency": 1,
+      "element": "supporterslutter"
+   },
+   {
+      "frequency": 1,
+      "element": "supporterslutter contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "supporterslutter contrer football"
+   },
+   {
+      "frequency": 1,
+      "element": "parent sacrer"
+   },
+   {
+      "frequency": 1,
+      "element": "sacrer"
+   },
+   {
+      "frequency": 1,
+      "element": "accor"
+   },
+   {
+      "frequency": 1,
+      "element": "accor réunir"
+   },
+   {
+      "frequency": 1,
+      "element": "accor réunir propriétaire"
+   },
+   {
+      "frequency": 1,
+      "element": "franchisé"
+   },
+   {
+      "frequency": 1,
+      "element": "franchisé accor"
+   },
+   {
+      "frequency": 1,
+      "element": "franchisé accor réunir"
+   },
+   {
+      "frequency": 1,
+      "element": "réunir"
+   },
+   {
+      "frequency": 1,
+      "element": "réunir propriétaire"
+   },
+   {
+      "frequency": 1,
+      "element": "filière"
+   },
+   {
+      "frequency": 1,
+      "element": "filière électronique"
+   },
+   {
+      "frequency": 1,
+      "element": "motard"
+   },
+   {
+      "frequency": 1,
+      "element": "national participant"
+   },
+   {
+      "frequency": 1,
+      "element": "participant"
+   },
+   {
+      "frequency": 1,
+      "element": "agir formation"
+   },
+   {
+      "frequency": 1,
+      "element": "agir formation qualité"
+   },
+   {
+      "frequency": 1,
+      "element": "formation qualité"
+   },
+   {
+      "frequency": 1,
+      "element": "patient service"
+   },
+   {
+      "frequency": 1,
+      "element": "patient service toute"
+   },
+   {
+      "frequency": 1,
+      "element": "service toute"
+   },
+   {
+      "frequency": 1,
+      "element": "service toute personne"
+   },
+   {
+      "frequency": 1,
+      "element": "toute personne"
+   },
+   {
+      "frequency": 1,
+      "element": "avoir objectif"
+   },
+   {
+      "frequency": 1,
+      "element": "objectif"
+   },
+   {
+      "frequency": 1,
+      "element": "ami muser école"
+   },
+   {
+      "frequency": 1,
+      "element": "muser école"
+   },
+   {
+      "frequency": 1,
+      "element": "annemasse"
+   },
+   {
+      "frequency": 1,
+      "element": "commerçant annemasse"
+   },
+   {
+      "frequency": 1,
+      "element": "imprimeur"
+   },
+   {
+      "frequency": 1,
+      "element": "maître imprimeur"
+   },
+   {
+      "frequency": 1,
+      "element": "ille"
+   },
+   {
+      "frequency": 1,
+      "element": "maire ille"
+   },
+   {
+      "frequency": 1,
+      "element": "muser suisse"
+   },
+   {
+      "frequency": 1,
+      "element": "détenteur"
+   },
+   {
+      "frequency": 1,
+      "element": "détenteur wagon"
+   },
+   {
+      "frequency": 1,
+      "element": "français détenteur"
+   },
+   {
+      "frequency": 1,
+      "element": "français détenteur wagon"
+   },
+   {
+      "frequency": 1,
+      "element": "wagon"
+   },
+   {
+      "frequency": 1,
+      "element": "faire"
+   },
+   {
+      "frequency": 1,
+      "element": "faire promotion"
+   },
+   {
+      "frequency": 1,
+      "element": "sportif"
+   },
+   {
+      "frequency": 1,
+      "element": "sportif faire"
+   },
+   {
+      "frequency": 1,
+      "element": "sportif faire promotion"
+   },
+   {
+      "frequency": 1,
+      "element": "interpréter"
+   },
+   {
+      "frequency": 1,
+      "element": "traducteur"
+   },
+   {
+      "frequency": 1,
+      "element": "traducteur interpréter"
+   },
+   {
+      "frequency": 1,
+      "element": "assistant"
+   },
+   {
+      "frequency": 1,
+      "element": "assistant service"
+   },
+   {
+      "frequency": 1,
+      "element": "national assistant"
+   },
+   {
+      "frequency": 1,
+      "element": "national assistant service"
+   },
+   {
+      "frequency": 1,
+      "element": "commerçant territoire"
+   },
+   {
+      "frequency": 1,
+      "element": "territoire"
+   },
+   {
+      "frequency": 1,
+      "element": "activité manifestation"
+   },
+   {
+      "frequency": 1,
+      "element": "activité manifestation loisir"
+   },
+   {
+      "frequency": 1,
+      "element": "loisir"
+   },
+   {
+      "frequency": 1,
+      "element": "manifestation"
+   },
+   {
+      "frequency": 1,
+      "element": "manifestation loisir"
+   },
+   {
+      "frequency": 1,
+      "element": "montagne"
+   },
+   {
+      "frequency": 1,
+      "element": "protection montagne"
+   },
+   {
+      "frequency": 1,
+      "element": "collection"
+   },
+   {
+      "frequency": 1,
+      "element": "passionner véhiculer"
+   },
+   {
+      "frequency": 1,
+      "element": "passionner véhiculer collection"
+   },
+   {
+      "frequency": 1,
+      "element": "véhiculer collection"
+   },
+   {
+      "frequency": 1,
+      "element": "chinois france"
+   },
+   {
+      "frequency": 1,
+      "element": "ingénieur chinois"
+   },
+   {
+      "frequency": 1,
+      "element": "ingénieur chinois france"
+   },
+   {
+      "frequency": 1,
+      "element": "atteint"
+   },
+   {
+      "frequency": 1,
+      "element": "atteint malformation"
+   },
+   {
+      "frequency": 1,
+      "element": "malformation"
+   },
+   {
+      "frequency": 1,
+      "element": "patient atteint"
+   },
+   {
+      "frequency": 1,
+      "element": "patient atteint malformation"
+   },
+   {
+      "frequency": 1,
+      "element": "diplôme"
+   },
+   {
+      "frequency": 1,
+      "element": "diplômer sciencespromotion"
+   },
+   {
+      "frequency": 1,
+      "element": "diplômer sciencespromotion diplôme"
+   },
+   {
+      "frequency": 1,
+      "element": "sciencespromotion"
+   },
+   {
+      "frequency": 1,
+      "element": "sciencespromotion diplôme"
+   },
+   {
+      "frequency": 1,
+      "element": "français sapin"
+   },
+   {
+      "frequency": 1,
+      "element": "français sapin noël"
+   },
+   {
+      "frequency": 1,
+      "element": "noël"
+   },
+   {
+      "frequency": 1,
+      "element": "sapin"
+   },
+   {
+      "frequency": 1,
+      "element": "sapin noël"
+   },
+   {
+      "frequency": 1,
+      "element": "pratiquer"
+   },
+   {
+      "frequency": 1,
+      "element": "pratiquer professionnel"
+   },
+   {
+      "frequency": 1,
+      "element": "promouvoir pratiquer"
+   },
+   {
+      "frequency": 1,
+      "element": "promouvoir pratiquer professionnel"
+   },
+   {
+      "frequency": 1,
+      "element": "brûler"
+   },
+   {
+      "frequency": 1,
+      "element": "brûler franc"
+   },
+   {
+      "frequency": 1,
+      "element": "franc"
+   },
+   {
+      "frequency": 1,
+      "element": "voisin"
+   },
+   {
+      "frequency": 1,
+      "element": "voisin quartier"
+   },
+   {
+      "frequency": 1,
+      "element": "maladie"
+   },
+   {
+      "frequency": 1,
+      "element": "patient maladie"
+   },
+   {
+      "frequency": 1,
+      "element": "etats"
+   },
+   {
+      "frequency": 1,
+      "element": "etats général"
+   },
+   {
+      "frequency": 1,
+      "element": "etats général etudiants"
+   },
+   {
+      "frequency": 1,
+      "element": "général etudiants"
+   },
+   {
+      "frequency": 1,
+      "element": "artisan hôtelier"
+   },
+   {
+      "frequency": 1,
+      "element": "commerçant artisan hôtelier"
+   },
+   {
+      "frequency": 1,
+      "element": "midipromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "midipromouvoir métier"
+   },
+   {
+      "frequency": 1,
+      "element": "métier"
+   },
+   {
+      "frequency": 1,
+      "element": "sommelier"
+   },
+   {
+      "frequency": 1,
+      "element": "sommelier midipromouvoir"
+   },
+   {
+      "frequency": 1,
+      "element": "sommelier midipromouvoir métier"
+   },
+   {
+      "frequency": 1,
+      "element": "géologue"
+   },
+   {
+      "frequency": 1,
+      "element": "géologue sud"
+   },
+   {
+      "frequency": 1,
+      "element": "géologue sud ouest"
+   },
+   {
+      "frequency": 1,
+      "element": "sud"
+   },
+   {
+      "frequency": 1,
+      "element": "sud ouest"
+   },
+   {
+      "frequency": 1,
+      "element": "infirmier"
+   },
+   {
+      "frequency": 1,
+      "element": "allergologues"
+   },
+   {
+      "frequency": 1,
+      "element": "national allergologues"
+   },
+   {
+      "frequency": 1,
+      "element": "artisan france"
+   },
+   {
+      "frequency": 1,
+      "element": "national artisan"
+   },
+   {
+      "frequency": 1,
+      "element": "national artisan france"
+   },
+   {
+      "frequency": 1,
+      "element": "firme"
+   },
+   {
+      "frequency": 1,
+      "element": "firme génie"
+   },
+   {
+      "frequency": 1,
+      "element": "national jeune"
+   },
+   {
+      "frequency": 1,
+      "element": "français secrétaire"
+   },
+   {
+      "frequency": 1,
+      "element": "secrétaire"
+   },
+   {
+      "frequency": 1,
+      "element": "méditerrané"
+   },
+   {
+      "frequency": 1,
+      "element": "pharmacien"
+   },
+   {
+      "frequency": 1,
+      "element": "pharmacien méditerrané"
+   },
+   {
+      "frequency": 1,
+      "element": "national regrouper"
+   },
+   {
+      "frequency": 1,
+      "element": "national regrouper plaire"
+   },
+   {
+      "frequency": 1,
+      "element": "plaire"
+   },
+   {
+      "frequency": 1,
+      "element": "regrouper"
+   },
+   {
+      "frequency": 1,
+      "element": "regrouper plaire"
+   },
+   {
+      "frequency": 1,
+      "element": "verger"
+   },
+   {
+      "frequency": 1,
+      "element": "verger îlot"
+   },
+   {
+      "frequency": 1,
+      "element": "îlot"
+   },
+   {
+      "frequency": 1,
+      "element": "national victime"
+   },
+   {
+      "frequency": 1,
+      "element": "national victime routenationale"
+   },
+   {
+      "frequency": 1,
+      "element": "routenationale"
+   },
+   {
+      "frequency": 1,
+      "element": "routenationale victime"
+   },
+   {
+      "frequency": 1,
+      "element": "routenationale victime router"
+   },
+   {
+      "frequency": 1,
+      "element": "router"
+   },
+   {
+      "frequency": 1,
+      "element": "victime routenationale"
+   },
+   {
+      "frequency": 1,
+      "element": "victime routenationale victime"
+   },
+   {
+      "frequency": 1,
+      "element": "victime router"
+   },
+   {
+      "frequency": 1,
+      "element": "recteur"
+   },
+   {
+      "frequency": 1,
+      "element": "recteur sanctuaire"
+   },
+   {
+      "frequency": 1,
+      "element": "recteur sanctuaire france"
+   },
+   {
+      "frequency": 1,
+      "element": "sanctuaire"
+   },
+   {
+      "frequency": 1,
+      "element": "sanctuaire france"
+   },
+   {
+      "frequency": 1,
+      "element": "ail"
+   },
+   {
+      "frequency": 1,
+      "element": "ail être"
+   },
+   {
+      "frequency": 1,
+      "element": "ail être mouvement"
+   },
+   {
+      "frequency": 1,
+      "element": "mouvement"
+   },
+   {
+      "frequency": 1,
+      "element": "mouvement éducation"
+   },
+   {
+      "frequency": 1,
+      "element": "éducation"
+   },
+   {
+      "frequency": 1,
+      "element": "être mouvement"
+   },
+   {
+      "frequency": 1,
+      "element": "être mouvement éducation"
+   },
+   {
+      "frequency": 1,
+      "element": "influencer"
+   },
+   {
+      "frequency": 1,
+      "element": "influencer entrepreneur"
+   },
+   {
+      "frequency": 1,
+      "element": "réseau"
+   },
+   {
+      "frequency": 1,
+      "element": "réseau influencer"
+   },
+   {
+      "frequency": 1,
+      "element": "réseau influencer entrepreneur"
+   },
+   {
+      "frequency": 1,
+      "element": "amérique"
+   },
+   {
+      "frequency": 1,
+      "element": "famille thériault"
+   },
+   {
+      "frequency": 1,
+      "element": "famille thériault amérique"
+   },
+   {
+      "frequency": 1,
+      "element": "thériault"
+   },
+   {
+      "frequency": 1,
+      "element": "thériault amérique"
+   },
+   {
+      "frequency": 1,
+      "element": "flux"
+   },
+   {
+      "frequency": 1,
+      "element": "flux information"
+   },
+   {
+      "frequency": 1,
+      "element": "promouvoir flux"
+   },
+   {
+      "frequency": 1,
+      "element": "promouvoir flux information"
+   },
+   {
+      "frequency": 1,
+      "element": "francophone japon"
+   },
+   {
+      "frequency": 1,
+      "element": "français francophone"
+   },
+   {
+      "frequency": 1,
+      "element": "français francophone japon"
+   },
+   {
+      "frequency": 1,
+      "element": "japon"
+   },
+   {
+      "frequency": 1,
+      "element": "ingénieur pari"
+   },
+   {
+      "frequency": 1,
+      "element": "durablement"
+   },
+   {
+      "frequency": 1,
+      "element": "durablement contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "durablement contrer faim"
+   },
+   {
+      "frequency": 1,
+      "element": "lutter durablement"
+   },
+   {
+      "frequency": 1,
+      "element": "lutter durablement contrer"
+   },
+   {
+      "frequency": 1,
+      "element": "maison"
+   },
+   {
+      "frequency": 1,
+      "element": "riverain"
+   },
+   {
+      "frequency": 1,
+      "element": "riverain maison"
+   },
+   {
+      "frequency": 1,
+      "element": "tourneur"
+   },
+   {
+      "frequency": 1,
+      "element": "tourneur art"
+   },
+   {
+      "frequency": 1,
+      "element": "chef"
+   },
+   {
+      "frequency": 1,
+      "element": "chef décorateur"
+   },
+   {
+      "frequency": 1,
+      "element": "chef décorateur cinéma"
+   },
+   {
+      "frequency": 1,
+      "element": "décorateur"
+   },
+   {
+      "frequency": 1,
+      "element": "décorateur cinéma"
+   },
+   {
+      "frequency": 1,
+      "element": "charrue"
+   },
+   {
+      "frequency": 1,
+      "element": "vieux"
+   },
+   {
+      "frequency": 1,
+      "element": "vieux charrue"
+   },
+   {
+      "frequency": 1,
+      "element": "photographe"
+   },
+   {
+      "frequency": 1,
+      "element": "robert"
+   },
+   {
+      "frequency": 1,
+      "element": "seminaires"
+   },
+   {
+      "frequency": 1,
+      "element": "seminaires robert"
+   },
+   {
+      "frequency": 1,
+      "element": "bourgogne"
+   },
+   {
+      "frequency": 1,
+      "element": "généraliste bourgogne"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune médecin"
+   },
+   {
+      "frequency": 1,
+      "element": "jeune médecin généraliste"
+   },
+   {
+      "frequency": 1,
+      "element": "médecin généraliste bourgogne"
+   },
+   {
+      "frequency": 1,
+      "element": "cinéma indépendant"
+   },
+   {
+      "frequency": 1,
+      "element": "français génie"
+   },
+   {
+      "frequency": 1,
+      "element": "français génie parasismique"
+   },
+   {
+      "frequency": 1,
+      "element": "génie parasismique"
+   },
+   {
+      "frequency": 1,
+      "element": "parasismique"
+   },
+   {
+      "frequency": 1,
+      "element": "air"
+   },
+   {
+      "frequency": 1,
+      "element": "école air"
+   },
+   {
+      "frequency": 1,
+      "element": "élever école air"
+   },
+   {
+      "frequency": 1,
+      "element": "ancien étudiant"
+   },
+   {
+      "frequency": 1,
+      "element": "foie"
+   },
+   {
+      "frequency": 1,
+      "element": "foie région"
+   },
+   {
+      "frequency": 1,
+      "element": "greffer"
+   },
+   {
+      "frequency": 1,
+      "element": "greffer foie"
+   },
+   {
+      "frequency": 1,
+      "element": "greffer foie région"
+   },
+   {
+      "frequency": 1,
+      "element": "formateur"
+   },
+   {
+      "frequency": 1,
+      "element": "formateur sécurité"
+   },
+   {
+      "frequency": 1,
+      "element": "sécurité"
+   },
+   {
+      "frequency": 1,
+      "element": "cinéma circuit"
+   },
+   {
+      "frequency": 1,
+      "element": "circuit"
+   },
+   {
+      "frequency": 1,
+      "element": "ami maire"
+   },
+   {
+      "frequency": 1,
+      "element": "insuffisant"
+   },
+   {
+      "frequency": 1,
+      "element": "ami peintre"
+   },
+   {
+      "frequency": 1,
+      "element": "art plastiquer"
+   },
+   {
+      "frequency": 1,
+      "element": "art plastiquer saint"
+   },
+   {
+      "frequency": 1,
+      "element": "plastiquer"
+   },
+   {
+      "frequency": 1,
+      "element": "plastiquer saint"
+   },
+   {
+      "frequency": 1,
+      "element": "avocat origine"
+   },
+   {
+      "frequency": 1,
+      "element": "origine"
+   },
+   {
+      "frequency": 1,
+      "element": "restaurateur"
+   },
+   {
+      "frequency": 1,
+      "element": "financier"
+   },
+   {
+      "frequency": 1,
+      "element": "français gestion financier"
+   },
+   {
+      "frequency": 1,
+      "element": "gestion financier"
+   },
+   {
+      "frequency": 1,
+      "element": "club golf"
+   },
+   {
+      "frequency": 1,
+      "element": "golf"
+   },
+   {
+      "frequency": 1,
+      "element": "anglicistes"
+   },
+   {
+      "frequency": 1,
+      "element": "anglicistes enseignement"
+   },
+   {
+      "frequency": 1,
+      "element": "médiéviste"
+   },
+   {
+      "frequency": 1,
+      "element": "médiéviste anglicistes"
+   },
+   {
+      "frequency": 1,
+      "element": "médiéviste anglicistes enseignement"
+   }
+]

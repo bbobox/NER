@@ -51,6 +51,7 @@ class Corpus:
     def __init__(self):
         self.content = []
         self.list=[]
+        self.websites_list=[]
 
     def set_content(self,websites):
         """
@@ -62,6 +63,7 @@ class Corpus:
             ws = remove_stops(lemmatise_sentence(ws))
             if (ws!=""):
                 self.content.append(ws)
+                self.websites_list.append(websites[i].url)
 
     def get_indexed_elements(self, ngram_range=(1,1)):
         """
@@ -98,20 +100,37 @@ class Corpus:
         """
         recpéruation des elements pertinants du corpus après le calcul du tf/idf
         :param ngram_range:
-        :return:
+        :return: liste de couple(X,Y) avec X étant n-gram/words et Y la somme de ses fréquences
         """
         elements = self.get_indexed_elements(ngram_range=ngram_range)
         frequencies = self.get_words_frequencies(ngram_range=ngram_range)
         tfidf = self.get_words_tfidf(ngram_range=ngram_range)
 
         relevant = []
-        for doc in range(len(tfidf)):
+        relevant_words=[]
+        n= len(tfidf)
+        for doc in range(n):
             for element in range(len(elements)):
                 if tfidf[doc][element] > 0:
-                    if not (elements[element] in relevant):
-                        relevant.append((elements[element]))
+                    if not (elements[element] in relevant_words):
+                        relevant_words.append(elements[element])
+                        total_frequency= self.compute_word_total_frequency(element, frequencies, self.content)
+                        relevant.append((elements[element],total_frequency))
 
         return relevant
+
+    def compute_word_total_frequency(self,word_id, frequency_Matrix, corpus):
+        """
+
+        :param word_id:
+        :param frequency_Matrix:
+        :param corpus:
+        :return:
+        """
+        cpt = 0
+        for i in range(len(corpus)):
+            cpt += frequency_Matrix[i][word_id]
+        return cpt
 
 
 
