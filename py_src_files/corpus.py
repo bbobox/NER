@@ -54,14 +54,15 @@ class Corpus:
         self.list=[]
         self.websites_list=[]
 
-    def set_content(self,websites):
+    def set_content(self, websites, lemmatise):
         """
         Remplissage avec les contenus des elements web
         :param websites:
         """
         for i in websites:
             ws= websites[i].type.lower()
-            ws = remove_stops(lemmatise_sentence(ws))
+            if lemmatise: ws = remove_stops(lemmatise_sentence(ws))
+            else: ws = remove_stops(ws)
             if (ws!=""):
                 self.content.append(ws)
                 self.websites_list.append(websites[i].url)
@@ -72,7 +73,7 @@ class Corpus:
         :param ngram_range: couple ( a,b) corespondant au element ngran indexés
         :return:
         """
-        vectorizer = CountVectorizer(ngram_range=ngram_range)
+        vectorizer = CountVectorizer(ngram_range = ngram_range)
         X = vectorizer.fit_transform(self.content)
         return vectorizer.get_feature_names()
 

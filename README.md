@@ -7,16 +7,25 @@ Application de graphes Unitex sur tex :
 		-c : cehmin de dossier Unitex-GramLab.*.*/French
 		-g : chemin de graphe/automate Unitex à appliquer
 
-Utilisation des programmes python:
-  - version de python : -python3
+Utilisation du programmes python pour déterminer la fréquence des mots les plus déterminants:
+  - version de python: python3
   - modules requis:
-    -nltk
-    -scikit-learn
-    -spacy
-    -sapcy_lefff
-    -msgpack<0.6.0
+    - nltk
+    - scikit-learn
+    - spacy
+    - sapcy_lefff
+    - msgpack<0.6.0
 
-Lancement test : `python3 -m spacy download fr` puis `python3 main.py -i inputfile.txt -o outputfile`
+Vous devez également télécharger la banque de langue de spacy: `python3 -m spacy download fr`
+
+Lancement: `python3 main.py -i inputfile.txt -o outputfile [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>]`
+
+__Liste des arguments:__
+  - -i: chemin du fichier taggué par Unitex. __OBLIGATOIRE !__
+  - -o: chemin du fichier de sortie au foramt JSON. Il est inutile de préciser l'extension du fichier qui sera automatiquement ajouté. __OBLIGATOIRE !__
+  - -m: nombre de n-gram minimal. 1 par défaut.
+  - -M: nombre de n-gram maximal. n-gram minimal par-défaut.
+  - -l: indique si le fichier d'entrée doit être lemmatisé. true par défaut.
 
 # JsonParser
 ---
