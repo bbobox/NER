@@ -11,9 +11,10 @@ Utilisation des programmes python:
   - version de python : -python3
   - modules requis:
     -nltk
-	-scikit-learn
-	-spacy
-	-sapcy_lefff
+    -scikit-learn
+    -spacy
+    -sapcy_lefff
+    -msgpack<0.6.0
 
 Lancement test : `python3 main.py`
 
