@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import nltk
+nltk.download('stopwords')
 from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
 

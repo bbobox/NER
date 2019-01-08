@@ -16,7 +16,7 @@ Utilisation des programmes python:
     -sapcy_lefff
     -msgpack<0.6.0
 
-Lancement test : `python3 main.py`
+Lancement test : `python3 -m spacy download fr` puis `python3 main.py`
 
 # JsonParser
 ---
