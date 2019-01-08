@@ -1,5 +1,13 @@
 #!/bin/bash
 
+if [[ $# -eq 0 ]] ; then
+    echo '3 parameters needed:'
+	echo '-f|--textfilepath: input text file'
+	echo '-c|--UnitexLanguageConfigFolder: Unitex language folder like "~/Unitex-GramLab-X/French"'
+	echo '-g|--graphpath: Unitext compile graph path to execute'
+    exit 1
+fi
+
 while [[ "$#" > 0 ]]; do case $1 in
   -g|--graphpath) g="$2"; shift;;
   -f|--textfilepath) f="$2"; shift;;

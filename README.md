@@ -12,6 +12,8 @@ Utilisation des programmes python:
   - modules requis:
     -nltk
 	-scikit-learn
+	-spacy
+	-sapcy_lefff
 
 Lancement test : `python3 main.py`
 
