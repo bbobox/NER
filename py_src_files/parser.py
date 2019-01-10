@@ -37,7 +37,7 @@ nlp.add_pipe(pos, name='pos', after='parser')
 nlp.add_pipe(french_lemmatizer, name='lefff', after='pos')
 
 
-def getWebSiteSet(file):
+def getWebSiteSet(file, separator, pattern):
     """
     retourne l'ensemble des Objects de type WebSites selon le fichier parsé
     """
@@ -48,25 +48,26 @@ def getWebSiteSet(file):
     des=""
     websites = {}
     for ligne in file:
-        if((((not ligne.startswith("[$]")) or tour!=0))):
+        if((not ligne.startswith(separator)) or tour!=0):
             i=i+1
             if(i%3==1):
                 title = ligne
                 tour = tour+1
             else:
                 if(i%3==2):
-                    ws = ligne.split("[$]")[0]
+                    ws = ligne
+                    print(ws)
                     tour = tour+1
                 else:
                     if(i%3)==0:
-                        des = ligne.split("[$]")[0]
-                        pattern = re.findall("typeAsso=(.*?)]", des)
+                        des = ligne.replace("{S}", "")
                         type = ""
-                        for z in pattern:
-                            type += z
-                        websites[ws]=WebSite(ws,des,title,type)
+                        if pattern!="":
+                            patternFound = re.findall(pattern, des)
+                            for z in patternFound:
+                                type += z
+                        websites[ws]=WebSite(ws, des, title, type)
                         tour = 0
-
     return websites
 
 

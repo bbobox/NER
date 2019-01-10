@@ -18,7 +18,7 @@ Utilisation du programmes python pour déterminer la fréquence des mots les plu
 
 Vous devez également télécharger la banque de langue de spacy: `python3 -m spacy download fr`
 
-Lancement: `python3 main.py -i inputfile.txt -o outputfile [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>]`
+Lancement: `python3 main.py -i inputfile.txt -o outputfile [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>] [-s <stopwords true|false>] [-S <separator>] [-p <pattern>]`
 
 __Liste des arguments:__
   - -i: chemin du fichier taggué par Unitex. __OBLIGATOIRE !__
@@ -26,6 +26,9 @@ __Liste des arguments:__
   - -m: nombre de n-gram minimal. 1 par défaut.
   - -M: nombre de n-gram maximal. n-gram minimal par-défaut.
   - -l: indique si le fichier d'entrée doit être lemmatisé. true par défaut.
+  - -s: indique si l'on retire les stopwords du fichier d'entrée. true par défaut.
+  - -S: chaîne de caractère indiquant le séparateur de document dans le fichier d'entrée.
+  - -p: chaîne de caractère à rechercher dans le fichier d'entrée et sur laquelle sera établie la fréquence des mots les plus déterminants. "" par défaut, ce qui veut dire pas de recherche particulière.
 
 # JsonParser
 ---

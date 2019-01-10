@@ -4,13 +4,16 @@ from distutils.util import strtobool
 
 inputfile = ''
 outputfile = ''
-lemmatise = 1
 mingram = 1
 maxgram = 1
+lemmatise = 1
+stopwords = 1
+separator = '\n'
+pattern = ""
 try:
-  opts, args = getopt.getopt(sys.argv[1:], "i:o:m:M:l:h", ["inputfile=", "outputfile=", "mingram=", "maxgram=", "lemmatise=", "help"])
+  opts, args = getopt.getopt(sys.argv[1:], "i:o:m:M:l:s:S:p:h", ["inputfile=", "outputfile=", "mingram=", "maxgram=", "lemmatise=", "stopwords=", "separator=", "pattern=", "help"])
 except getopt.GetoptError:
-  print('usage: main.py -i <inputfile> -o <outputfile> [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>]')
+  print('usage: main.py -i <inputfile> -o <outputfile> [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>] [-s <stopwords treu|false>] [-S <separator>] [-p <pattern>]')
   sys.exit(2)
 for opt, arg in opts:
   if opt in ("-i", "--inputfile"):
@@ -29,17 +32,24 @@ for opt, arg in opts:
     try:
       lemmatise = distutils.util.strtobool(arg)
     except ValueError: print("-l parameter value is not a boolean like value so it will take 1 !")
+  elif opt in ("-s", "--stopwords"):
+    try:
+      stopwords = distutils.util.strtobool(arg)
+    except ValueError: print("-s parameter value is not a boolean like value so it will take 1 !")
   elif opt in ("-h", "--help"):
-    print('usage: main.py -i <inputfile> -o <outputfile> [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>]')
+    print('usage: main.py -i <inputfile> -o <outputfile> [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>] [-s <stopwords treu|false>] [-S <separator>] [-p <pattern>]')
     print('-i    : input text file')
     print('-o    : output JSON file. No need to write .json, it will be added automatically')
     print('-m    : minimal n-gram. Default is 1')
     print('-M    : maximal n-gram. Default is minimal n-gram')
     print('-l    : if input text file must be lemmatized. Default is 1|true|yes|on. Can also be 0|false|no|off')
+    print('-s    : remove stopwords from input text file. Default is 1|true|yes|on. Can also be 0|false|no|off')
+    print('-S    : a string that represent the document separator. Default is \\n')
+    print('-p    : a string that represent a pattern to work on in the input text file. Default is "" meaning no pattern search')
     sys.exit(0)
 
 if inputfile=='' or outputfile=='':
-  print('usage: main.py -i <inputfile> -o <outputfile> [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>]')
+  print('usage: main.py -i <inputfile> -o <outputfile> [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>] [-s <stopwords treu|false>] [-S <separator>] [-p <pattern>]')
   sys.exit(2)
 
 if mingram>maxgram: maxgram = mingram
@@ -88,8 +98,8 @@ def get_score(name_and_value):
 "----------------------------------------------------------------------"
 
 file = open(inputfile, "r") #chemin du fichier
-websites = getWebSiteSet(file)
+websites = getWebSiteSet(file, separator, pattern)
 cp = Corpus()
-cp.set_content(websites, lemmatise)
+cp.set_content(websites, lemmatise, stopwords)
 L = sorted(cp.get_relevant_elements((mingram, maxgram)), key = get_score, reverse = True)
 serialize_to_outfile(L, outputfile+'.json')

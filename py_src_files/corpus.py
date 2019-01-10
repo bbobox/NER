@@ -54,20 +54,21 @@ class Corpus:
         self.list=[]
         self.websites_list=[]
 
-    def set_content(self, websites, lemmatise):
+    def set_content(self, websites, lemmatise, stopwords):
         """
         Remplissage avec les contenus des elements web
         :param websites:
         """
         for i in websites:
-            ws= websites[i].type.lower()
-            if lemmatise: ws = remove_stops(lemmatise_sentence(ws))
-            else: ws = remove_stops(ws)
+            if websites[i].type!="": ws= websites[i].type.lower()
+            else: ws= websites[i].desc.lower()
+            if lemmatise: ws = lemmatise_sentence(ws)
+            if stopwords: ws = remove_stops(ws)
             if (ws!=""):
                 self.content.append(ws)
                 self.websites_list.append(websites[i].url)
 
-    def get_indexed_elements(self, ngram_range=(1,1)):
+    def get_indexed_elements(self, ngram_range=(1, 1)):
         """
         Recuperation de l'ensemble des elements indexés
         :param ngram_range: couple ( a,b) corespondant au element ngran indexés
@@ -78,7 +79,7 @@ class Corpus:
         return vectorizer.get_feature_names()
 
 
-    def get_words_frequencies(self, ngram_range=(1,1)):
+    def get_words_frequencies(self, ngram_range=(1, 1)):
         """
         Calcul de la fréquences des elemnts ngram dans en fonction de chaque element du corpus
         :param ngram_range:
@@ -88,7 +89,7 @@ class Corpus:
         X = count_vectorizer.fit_transform(self.content)
         return X.toarray()
 
-    def get_words_tfidf(self, ngram_range=(1,1)):
+    def get_words_tfidf(self, ngram_range=(1, 1)):
         """
         Calcul du tfidf des elemnts ngram dans en fonction de chaque elements du corpus
         :param ngram_range:
@@ -98,7 +99,7 @@ class Corpus:
         X = tfidf_vectorizer.fit_transform(self.content)
         return X.toarray()
 
-    def get_relevant_elements(self, ngram_range=(1,1)):
+    def get_relevant_elements(self, ngram_range=(1, 1)):
         """
         recpéruation des elements pertinants du corpus après le calcul du tf/idf
         :param ngram_range:
