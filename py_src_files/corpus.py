@@ -54,7 +54,7 @@ class Corpus:
         self.list=[]
         self.websites_list=[]
 
-    def set_content(self, websites, lemmatise, stopwords):
+    def set_content(self, websites, lemmatise, remove_stopwords):
         """
         Remplissage avec les contenus des elements web
         :param websites:
@@ -63,7 +63,7 @@ class Corpus:
             if websites[i].type!="": ws= websites[i].type.lower()
             else: ws= websites[i].desc.lower()
             if lemmatise: ws = lemmatise_sentence(ws)
-            if stopwords: ws = remove_stops(ws)
+            if remove_stopwords: ws = remove_stops(ws)
             if (ws!=""):
                 self.content.append(ws)
                 self.websites_list.append(websites[i].url)

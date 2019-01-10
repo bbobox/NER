@@ -48,26 +48,20 @@ def getWebSiteSet(file, separator, pattern):
     des=""
     websites = {}
     for ligne in file:
-        if((not ligne.startswith(separator)) or tour!=0):
+        if not ligne.startswith(separator):
             i=i+1
             if(i%3==1):
                 title = ligne
-                tour = tour+1
-            else:
-                if(i%3==2):
-                    ws = ligne
-                    print(ws)
-                    tour = tour+1
-                else:
-                    if(i%3)==0:
-                        des = ligne.replace("{S}", "")
-                        type = ""
-                        if pattern!="":
-                            patternFound = re.findall(pattern, des)
-                            for z in patternFound:
-                                type += z
-                        websites[ws]=WebSite(ws, des, title, type)
-                        tour = 0
+            elif(i%3==2):
+                ws = ligne
+            elif(i%3)==0:
+                des = ligne.replace("{S}", "")
+                type = ""
+                if pattern!="":
+                    patternFound = re.findall(pattern, des)
+                    for z in patternFound:
+                        type += z
+                websites[ws]=WebSite(ws, des, title, type)
     return websites
 
 

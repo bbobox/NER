@@ -7,7 +7,7 @@ outputfile = ''
 mingram = 1
 maxgram = 1
 lemmatise = 1
-stopwords = 1
+remove_stopwords = 1
 separator = '\n'
 pattern = ""
 try:
@@ -34,8 +34,12 @@ for opt, arg in opts:
     except ValueError: print("-l parameter value is not a boolean like value so it will take 1 !")
   elif opt in ("-s", "--stopwords"):
     try:
-      stopwords = distutils.util.strtobool(arg)
+      remove_stopwords = distutils.util.strtobool(arg)
     except ValueError: print("-s parameter value is not a boolean like value so it will take 1 !")
+  elif opt in ("-S", "--separator"):
+    separator = arg
+  elif opt in ("-p", "--pattern"):
+    pattern = arg
   elif opt in ("-h", "--help"):
     print('usage: main.py -i <inputfile> -o <outputfile> [-m <mingram>] [-M <maxgram>] [-l <lemmatise true|false>] [-s <stopwords treu|false>] [-S <separator>] [-p <pattern>]')
     print('-i    : input text file')
@@ -100,6 +104,6 @@ def get_score(name_and_value):
 file = open(inputfile, "r") #chemin du fichier
 websites = getWebSiteSet(file, separator, pattern)
 cp = Corpus()
-cp.set_content(websites, lemmatise, stopwords)
+cp.set_content(websites, lemmatise, remove_stopwords)
 L = sorted(cp.get_relevant_elements((mingram, maxgram)), key = get_score, reverse = True)
 serialize_to_outfile(L, outputfile+'.json')
